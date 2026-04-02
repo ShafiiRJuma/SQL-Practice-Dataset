@@ -1,0 +1,251 @@
+ticket_id,customer_id,assigned_employee,subject,category,priority,status,created_date,resolved_date,satisfaction_score,channel
+1,24,47,Loan application inquiry,General Inquiry,Low,Resolved,2024-01-02 13:18:59,2024-04-27 01:48:51,5.0,Branch
+2,201,18,Mobile app not working,General Inquiry,High,Open,2023-06-20 16:45:45,,,Chat
+3,190,30,Account closure request,Loans,Critical,Escalated,2024-09-05 08:26:30,,,Phone
+4,205,41,Mobile app not working,General Inquiry,Medium,In Progress,2022-12-16 09:34:49,,,App
+5,43,54,Card blocked unexpectedly,Digital Banking,Critical,Resolved,2024-01-30 22:50:37,2024-12-24 15:30:49,5.0,App
+6,112,48,Duplicate transaction,Digital Banking,Medium,Escalated,2024-08-30 04:03:28,,,App
+7,23,35,Card blocked unexpectedly,Account Management,Medium,Closed,2023-05-04 12:58:43,2023-05-07 00:16:47,2.0,Email
+8,109,2,Transfer issue,Digital Banking,Critical,In Progress,2023-02-15 23:39:57,,,Email
+9,17,1,Card blocked unexpectedly,Fraud & Security,High,Open,2023-12-21 06:12:51,,,Branch
+10,178,13,Loan prepayment query,Loans,Medium,Resolved,2023-06-09 08:49:35,2023-07-23 10:00:24,4.0,Phone
+11,175,6,Loan application inquiry,Loans,Medium,Closed,2022-11-24 11:54:10,2024-02-15 21:20:28,2.0,Email
+12,179,33,Password reset,Card Services,High,Open,2022-10-26 23:23:40,,,Email
+13,15,35,Unauthorized transaction,General Inquiry,Medium,Closed,2022-12-16 17:16:09,2024-06-16 04:15:16,2.0,App
+14,264,46,Pin change request,General Inquiry,Low,Open,2024-04-11 12:10:23,,,Phone
+15,258,2,ATM cash not dispensed,Account Management,Medium,In Progress,2023-07-25 15:14:57,,,Phone
+16,248,9,Account statement request,Card Services,Medium,Closed,2023-05-10 20:45:27,2024-06-13 06:33:33,4.0,Branch
+17,208,34,Loan application inquiry,Card Services,Critical,Open,2024-12-27 02:10:21,,,App
+18,233,27,Pin change request,Fraud & Security,Medium,Open,2024-10-21 12:13:19,,,Email
+19,78,60,Pin change request,Loans,Medium,Open,2023-06-03 13:55:39,,,Branch
+20,7,29,Card blocked unexpectedly,Loans,Critical,Open,2022-04-23 22:08:10,,,Branch
+21,222,18,Pin change request,General Inquiry,Medium,Escalated,2024-09-28 15:04:59,,,Phone
+22,180,56,Loan prepayment query,Account Management,High,Resolved,2024-01-05 06:00:55,2024-11-19 11:10:35,2.0,App
+23,99,41,Mobile app not working,Account Management,Medium,Escalated,2023-06-06 11:10:49,,,Chat
+24,236,29,Credit score inquiry,Digital Banking,Critical,In Progress,2023-05-09 05:34:20,,,App
+25,294,24,Account statement request,Loans,High,Closed,2024-01-20 08:38:02,2024-09-22 02:38:41,2.0,Phone
+26,128,43,Duplicate transaction,General Inquiry,Low,In Progress,2022-09-08 05:42:40,,,Phone
+27,315,23,Unauthorized transaction,General Inquiry,High,Resolved,2024-11-16 16:16:47,2024-07-16 17:36:52,1.0,Phone
+28,318,40,Credit score inquiry,General Inquiry,Medium,Resolved,2024-09-27 15:02:41,2024-08-19 05:43:55,1.0,Email
+29,158,32,Duplicate transaction,Fraud & Security,Medium,In Progress,2022-04-01 00:42:08,,,App
+30,186,41,Loan prepayment query,General Inquiry,Medium,Closed,2022-04-27 23:27:26,2024-06-29 06:34:07,1.0,Email
+31,150,6,Credit score inquiry,Fraud & Security,Critical,In Progress,2024-02-24 16:24:45,,,Phone
+32,45,21,Pin change request,Loans,Low,Closed,2022-10-15 16:09:46,2024-03-01 06:55:06,5.0,Email
+33,274,4,Account closure request,Card Services,Critical,Open,2024-06-13 07:11:58,,,Email
+34,105,27,Fraud report,Account Management,High,Resolved,2022-11-07 17:50:19,2023-08-01 21:48:34,5.0,App
+35,268,32,Mobile app not working,Digital Banking,Medium,Open,2024-12-11 13:55:51,,,Chat
+36,49,46,Pin change request,Loans,High,Closed,2022-08-14 04:59:37,2023-08-17 23:20:50,3.0,Email
+37,252,48,ATM cash not dispensed,Fraud & Security,Low,Open,2024-04-13 20:38:06,,,App
+38,67,39,Account opening,Fraud & Security,High,Closed,2023-03-21 08:42:00,2024-01-24 04:30:12,3.0,App
+39,268,31,Card blocked unexpectedly,Digital Banking,Medium,In Progress,2023-04-14 21:13:34,,,App
+40,287,46,Cheque bounce,Card Services,Critical,Resolved,2022-06-11 22:38:45,2023-11-23 17:00:48,2.0,Chat
+41,194,9,Mobile app not working,Loans,Medium,Resolved,2023-02-16 08:57:03,2024-02-13 17:19:50,2.0,Email
+42,173,34,Loan application inquiry,Fraud & Security,Critical,Open,2022-10-18 21:01:30,,,Branch
+43,4,17,Loan application inquiry,Digital Banking,High,Closed,2023-09-18 03:34:06,2023-06-23 03:55:17,3.0,Chat
+44,94,55,Interest rate dispute,Account Management,High,Resolved,2023-12-28 09:49:00,2023-11-27 08:38:35,3.0,App
+45,59,27,Cheque bounce,Fraud & Security,Low,Closed,2024-03-12 15:30:47,2024-09-12 00:57:33,3.0,Branch
+46,127,24,Interest rate dispute,General Inquiry,Critical,Resolved,2022-04-23 01:57:25,2023-12-25 08:39:10,1.0,Chat
+47,15,46,Wrong charge applied,Card Services,Low,Resolved,2023-02-09 18:01:47,2024-05-13 23:08:47,4.0,Chat
+48,270,3,Duplicate transaction,Loans,High,Closed,2023-02-08 14:39:20,2024-06-14 11:06:57,3.0,Chat
+49,266,20,Loan application inquiry,Fraud & Security,Critical,Escalated,2023-12-16 00:11:32,,,Email
+50,234,28,Unauthorized transaction,Loans,Critical,Open,2022-10-05 18:09:50,,,Email
+51,311,19,Deposit not reflecting,Fraud & Security,Medium,In Progress,2023-06-28 22:26:43,,,Chat
+52,275,8,Credit score inquiry,Card Services,Medium,Resolved,2022-07-16 23:21:45,2023-08-11 20:54:18,5.0,Chat
+53,56,32,Pin change request,General Inquiry,Medium,In Progress,2023-04-26 08:25:25,,,Chat
+54,51,7,Cheque bounce,General Inquiry,Low,Closed,2022-06-15 15:32:34,2024-09-19 03:14:14,3.0,Phone
+55,237,56,Fraud report,Digital Banking,Low,Open,2023-04-01 00:08:48,,,Email
+56,121,52,Wrong charge applied,Digital Banking,Medium,Escalated,2024-02-26 17:37:44,,,Chat
+57,51,9,Mobile app not working,Loans,Low,Escalated,2022-01-13 17:30:06,,,Email
+58,165,25,Beneficiary add failure,Account Management,Medium,Closed,2024-01-31 22:28:37,2024-06-25 14:45:18,1.0,App
+59,50,44,Mobile app not working,Account Management,Medium,Open,2024-07-06 12:47:22,,,Branch
+60,8,59,Beneficiary add failure,Card Services,Medium,Escalated,2023-01-28 02:26:55,,,Phone
+61,82,11,Cheque bounce,General Inquiry,Low,Escalated,2024-07-13 10:59:00,,,Branch
+62,200,21,Deposit not reflecting,General Inquiry,Medium,Resolved,2022-05-31 12:25:28,2024-04-14 22:25:31,5.0,Phone
+63,290,16,Mobile app not working,Loans,Medium,In Progress,2024-12-14 22:08:35,,,Chat
+64,328,21,Deposit not reflecting,Loans,Medium,In Progress,2023-10-09 04:21:05,,,App
+65,122,36,Credit score inquiry,Account Management,High,Open,2022-09-19 21:52:28,,,Email
+66,5,24,Cheque bounce,Digital Banking,Low,Closed,2022-03-09 23:02:46,2023-01-11 09:23:35,5.0,Phone
+67,262,1,Card blocked unexpectedly,General Inquiry,Medium,Escalated,2024-05-07 01:17:10,,,Phone
+68,100,30,Deposit not reflecting,Fraud & Security,Critical,Open,2023-06-01 00:33:35,,,Branch
+69,323,11,Interest rate dispute,Card Services,Medium,Escalated,2024-01-15 04:44:18,,,Phone
+70,33,58,Pin change request,Digital Banking,Medium,Closed,2022-04-20 13:11:58,2023-02-17 16:50:32,5.0,Email
+71,240,25,Credit score inquiry,Fraud & Security,Low,In Progress,2024-07-06 00:37:48,,,Chat
+72,297,36,Unauthorized transaction,Loans,Low,Resolved,2022-04-18 08:01:37,2023-09-28 14:35:27,1.0,Email
+73,305,20,Interest rate dispute,General Inquiry,Critical,Closed,2022-07-28 07:16:28,2024-04-26 07:07:22,2.0,Branch
+74,276,50,Fraud report,Account Management,Critical,In Progress,2023-05-31 22:48:01,,,Email
+75,327,53,Deposit not reflecting,Loans,Medium,Closed,2022-11-08 01:13:59,2024-03-10 12:49:29,5.0,App
+76,28,40,Interest rate dispute,General Inquiry,Medium,Resolved,2023-06-30 11:43:31,2024-04-18 00:42:42,1.0,Email
+77,259,23,Mobile app not working,Fraud & Security,Critical,Resolved,2023-07-19 06:40:01,2024-10-21 13:52:23,5.0,Email
+78,265,53,Loan prepayment query,Card Services,High,Resolved,2023-09-14 09:10:01,2024-05-23 14:15:23,2.0,Phone
+79,180,21,Deposit not reflecting,Loans,Medium,Escalated,2022-02-11 13:06:16,,,Email
+80,326,10,Cheque bounce,Loans,Low,Open,2024-12-20 14:48:02,,,Chat
+81,30,51,Loan prepayment query,Account Management,Low,Escalated,2024-07-23 07:44:03,,,Branch
+82,22,12,Mobile app not working,Digital Banking,Critical,Closed,2024-05-29 17:15:55,2023-09-12 13:37:50,2.0,App
+83,169,55,Transfer issue,Digital Banking,Low,Open,2023-03-03 22:43:22,,,Phone
+84,62,31,Password reset,Digital Banking,Medium,Escalated,2024-08-14 21:14:33,,,Chat
+85,275,48,Duplicate transaction,Account Management,Critical,Escalated,2023-04-13 08:33:32,,,Chat
+86,296,56,Password reset,Loans,Medium,Open,2022-03-10 12:35:41,,,App
+87,178,48,Deposit not reflecting,Card Services,High,Escalated,2023-09-11 00:15:21,,,Email
+88,286,41,Card blocked unexpectedly,Account Management,High,Open,2022-03-28 16:33:07,,,Phone
+89,255,19,Account opening,General Inquiry,Medium,Open,2024-06-04 05:21:54,,,Branch
+90,66,22,Account closure request,General Inquiry,Medium,Resolved,2024-12-01 01:29:38,2023-04-25 01:39:26,5.0,Branch
+91,281,18,Pin change request,Digital Banking,Low,Escalated,2022-02-08 01:06:06,,,Phone
+92,288,8,Interest rate dispute,Fraud & Security,High,Open,2023-06-12 08:00:12,,,Email
+93,318,42,ATM cash not dispensed,Loans,Low,Resolved,2024-12-29 04:32:08,2023-05-26 10:16:16,3.0,Phone
+94,60,37,Unauthorized transaction,Loans,High,In Progress,2023-06-20 20:48:27,,,Email
+95,26,40,Account closure request,Loans,High,Resolved,2024-12-14 17:31:38,2023-07-29 04:23:50,4.0,Email
+96,148,30,Credit score inquiry,Fraud & Security,Low,Resolved,2024-04-07 10:56:06,2024-01-08 05:01:05,4.0,App
+97,226,9,Deposit not reflecting,Digital Banking,Low,In Progress,2023-06-02 18:20:46,,,App
+98,30,3,Pin change request,Fraud & Security,Medium,Open,2024-11-13 12:31:45,,,Branch
+99,259,1,Transfer issue,Fraud & Security,Low,Resolved,2024-09-01 20:54:07,2024-08-21 07:49:55,1.0,Email
+100,8,21,Cheque bounce,Loans,Medium,In Progress,2022-10-30 13:01:15,,,Branch
+101,222,36,Password reset,Digital Banking,High,In Progress,2022-11-30 16:16:11,,,Branch
+102,178,9,Wrong charge applied,Digital Banking,High,Resolved,2023-11-30 00:01:34,2023-10-07 13:23:19,3.0,App
+103,185,2,Pin change request,Loans,Medium,Resolved,2023-08-20 19:02:18,2024-11-12 00:45:45,5.0,App
+104,159,56,Beneficiary add failure,Loans,Low,Closed,2024-03-26 18:45:36,2023-05-11 08:05:21,4.0,Email
+105,28,12,Wrong charge applied,Account Management,Medium,Open,2022-03-21 15:33:14,,,Branch
+106,123,19,Mobile app not working,Digital Banking,Critical,Resolved,2023-06-14 01:26:27,2024-10-21 01:22:12,2.0,Chat
+107,136,41,Beneficiary add failure,Account Management,Medium,In Progress,2024-06-27 17:05:03,,,Branch
+108,61,45,ATM cash not dispensed,Account Management,Low,Open,2023-03-22 06:53:07,,,Chat
+109,247,3,Pin change request,Digital Banking,Medium,Closed,2022-11-26 08:14:19,2024-08-17 07:26:46,2.0,Phone
+110,54,38,Credit score inquiry,General Inquiry,Low,Open,2024-03-22 19:01:09,,,Email
+111,226,55,Account closure request,General Inquiry,Critical,Escalated,2024-09-28 21:02:08,,,Chat
+112,92,37,Beneficiary add failure,Card Services,Medium,Resolved,2024-05-25 21:46:36,2023-08-06 00:33:36,2.0,Email
+113,40,40,Loan prepayment query,Loans,High,In Progress,2023-03-25 15:39:10,,,Phone
+114,3,56,Loan application inquiry,General Inquiry,High,Open,2024-03-18 11:38:08,,,Branch
+115,195,4,Transfer issue,Digital Banking,Critical,Closed,2023-04-03 12:12:20,2024-09-27 07:11:53,2.0,Phone
+116,170,39,Interest rate dispute,Loans,Low,Escalated,2024-03-18 10:20:15,,,Chat
+117,213,37,Transfer issue,Loans,Medium,In Progress,2024-11-29 06:12:41,,,App
+118,157,50,Duplicate transaction,Loans,Critical,In Progress,2024-09-14 18:47:05,,,App
+119,259,27,Account statement request,Loans,Low,Escalated,2022-11-26 16:40:35,,,App
+120,162,34,Unauthorized transaction,Digital Banking,Medium,Closed,2023-12-15 15:53:52,2023-10-25 13:29:20,3.0,Email
+121,213,41,Wrong charge applied,Fraud & Security,Low,Open,2024-08-18 12:19:41,,,Branch
+122,328,51,Card blocked unexpectedly,Account Management,Medium,Escalated,2022-02-26 08:38:19,,,Phone
+123,11,24,Wrong charge applied,General Inquiry,High,In Progress,2023-10-15 07:47:27,,,Chat
+124,322,52,Deposit not reflecting,Account Management,Medium,Open,2022-08-06 09:24:12,,,App
+125,217,37,Wrong charge applied,Account Management,Critical,Resolved,2024-04-15 08:51:33,2024-08-15 06:21:29,4.0,Phone
+126,265,6,Fraud report,Card Services,High,In Progress,2023-10-08 20:40:37,,,App
+127,108,7,Beneficiary add failure,General Inquiry,Medium,In Progress,2023-12-02 15:18:36,,,Chat
+128,56,11,Fraud report,General Inquiry,Medium,Escalated,2023-04-22 23:37:34,,,Chat
+129,104,12,Account closure request,General Inquiry,Critical,Escalated,2022-09-25 20:34:56,,,Phone
+130,178,21,Duplicate transaction,Card Services,Low,In Progress,2023-03-25 21:46:28,,,Branch
+131,239,18,Account opening,Account Management,Low,In Progress,2024-12-22 13:28:47,,,Chat
+132,264,53,Pin change request,Fraud & Security,Medium,Escalated,2022-07-15 01:13:17,,,Branch
+133,106,7,Mobile app not working,Account Management,Low,Open,2022-08-28 00:15:47,,,Email
+134,23,25,Card blocked unexpectedly,General Inquiry,High,Escalated,2022-04-26 08:53:03,,,Branch
+135,141,14,Account opening,Account Management,High,In Progress,2023-04-06 23:40:18,,,Phone
+136,193,14,Fraud report,General Inquiry,Medium,In Progress,2024-10-06 01:04:47,,,Branch
+137,327,12,Cheque bounce,Digital Banking,High,Resolved,2022-04-25 16:49:31,2024-07-05 17:53:11,4.0,Phone
+138,78,7,Account closure request,General Inquiry,Low,In Progress,2023-05-29 20:09:14,,,Chat
+139,49,31,Interest rate dispute,General Inquiry,Medium,In Progress,2023-06-30 06:22:28,,,Branch
+140,23,17,ATM cash not dispensed,Digital Banking,Medium,Escalated,2023-07-23 08:05:43,,,Email
+141,126,22,ATM cash not dispensed,General Inquiry,High,Closed,2022-03-21 16:17:06,2024-05-07 01:18:22,2.0,Email
+142,19,58,Wrong charge applied,General Inquiry,Medium,In Progress,2023-02-03 09:53:29,,,Email
+143,40,8,Fraud report,Digital Banking,Low,Open,2023-09-23 02:05:56,,,Phone
+144,310,9,Duplicate transaction,Account Management,Medium,Resolved,2023-07-22 21:28:15,2024-05-24 13:09:28,5.0,Email
+145,19,49,Account closure request,Loans,Critical,Resolved,2022-03-22 00:11:47,2024-01-29 11:21:21,4.0,Email
+146,188,23,Credit score inquiry,Fraud & Security,Critical,In Progress,2023-06-04 13:53:44,,,Chat
+147,33,34,Interest rate dispute,Digital Banking,Medium,Escalated,2024-05-11 20:59:33,,,Email
+148,225,20,Beneficiary add failure,Loans,Critical,Escalated,2024-05-25 21:05:55,,,App
+149,177,46,Account closure request,Loans,Medium,Open,2022-03-10 00:48:55,,,Email
+150,236,40,Interest rate dispute,Loans,High,Escalated,2022-01-06 02:57:16,,,Phone
+151,148,1,ATM cash not dispensed,Account Management,High,Escalated,2024-11-12 16:56:37,,,Chat
+152,233,52,Wrong charge applied,Card Services,Medium,Open,2022-06-09 08:49:41,,,Branch
+153,265,39,Loan prepayment query,General Inquiry,Low,Closed,2023-06-24 01:28:08,2024-08-30 05:14:02,3.0,Branch
+154,303,32,Interest rate dispute,Fraud & Security,Medium,Resolved,2024-04-10 22:47:35,2024-12-25 22:12:04,4.0,Email
+155,123,2,Unauthorized transaction,Loans,Medium,Resolved,2022-10-10 05:34:43,2023-02-02 17:22:34,3.0,Phone
+156,20,53,Pin change request,Digital Banking,High,Escalated,2022-06-13 04:06:55,,,Phone
+157,124,22,Cheque bounce,Card Services,Low,In Progress,2023-08-17 02:35:31,,,Chat
+158,79,36,Credit score inquiry,Card Services,Medium,In Progress,2022-03-18 18:12:30,,,Email
+159,284,27,Loan application inquiry,Account Management,Low,In Progress,2022-09-03 00:02:53,,,Email
+160,75,17,Loan prepayment query,Fraud & Security,Medium,Resolved,2023-05-28 11:00:49,2023-08-20 10:07:34,2.0,Chat
+161,77,15,Interest rate dispute,General Inquiry,Low,In Progress,2022-02-04 17:36:57,,,Phone
+162,98,9,Mobile app not working,Digital Banking,Critical,Open,2022-05-30 22:07:54,,,Email
+163,83,17,Fraud report,Account Management,Low,Escalated,2024-10-21 04:15:43,,,App
+164,172,15,Password reset,Digital Banking,Medium,Closed,2024-05-31 01:47:49,2023-03-16 11:23:00,2.0,Branch
+165,249,27,Password reset,Digital Banking,Medium,Open,2024-09-15 07:55:15,,,App
+166,193,19,Unauthorized transaction,Digital Banking,Critical,Resolved,2023-09-26 15:34:02,2024-07-25 02:06:15,4.0,Branch
+167,111,25,Account statement request,Account Management,Low,Closed,2024-06-20 00:46:17,2024-12-26 09:54:33,3.0,App
+168,329,30,Unauthorized transaction,Digital Banking,Low,In Progress,2022-01-01 09:57:06,,,Branch
+169,193,4,Interest rate dispute,Loans,Medium,In Progress,2023-01-04 21:58:03,,,Phone
+170,216,5,Duplicate transaction,General Inquiry,Medium,Resolved,2023-10-20 05:15:54,2023-12-31 23:15:15,2.0,Branch
+171,75,19,Wrong charge applied,Digital Banking,Critical,In Progress,2024-07-01 23:02:38,,,App
+172,101,35,Password reset,General Inquiry,Medium,Closed,2023-12-01 18:50:47,2024-11-02 19:58:59,4.0,Email
+173,33,18,Pin change request,Fraud & Security,Critical,Escalated,2022-08-31 15:32:56,,,Email
+174,83,34,Fraud report,Fraud & Security,Critical,In Progress,2022-10-17 01:18:42,,,Phone
+175,167,12,Password reset,Fraud & Security,Medium,In Progress,2024-02-16 21:10:47,,,App
+176,75,32,Card blocked unexpectedly,Digital Banking,Medium,Open,2023-08-21 17:42:35,,,Phone
+177,154,5,Password reset,Account Management,Medium,Open,2023-03-08 16:52:46,,,Email
+178,80,17,Account closure request,Loans,High,In Progress,2024-07-05 22:35:52,,,Phone
+179,291,15,Cheque bounce,General Inquiry,Medium,Escalated,2024-10-30 13:45:29,,,Chat
+180,213,59,Password reset,General Inquiry,Critical,Open,2023-03-11 06:04:40,,,Email
+181,236,18,Loan application inquiry,Account Management,Medium,In Progress,2024-09-25 10:26:51,,,Chat
+182,107,46,Beneficiary add failure,Loans,Critical,Escalated,2022-12-30 22:57:35,,,App
+183,12,22,Fraud report,Card Services,Critical,Resolved,2024-08-27 13:33:57,2023-03-03 21:27:51,5.0,Chat
+184,293,23,Unauthorized transaction,Digital Banking,Medium,Resolved,2024-05-22 02:14:29,2024-01-10 13:11:56,3.0,Chat
+185,98,1,Card blocked unexpectedly,Loans,Low,Closed,2022-07-20 13:35:17,2023-06-24 18:12:40,2.0,App
+186,309,53,ATM cash not dispensed,Digital Banking,Medium,Closed,2022-04-19 19:13:56,2024-03-09 01:32:47,4.0,Branch
+187,87,48,Loan prepayment query,Card Services,Medium,Closed,2023-03-19 22:21:56,2023-12-29 05:55:25,3.0,App
+188,195,56,Account closure request,Card Services,Critical,In Progress,2023-07-24 16:47:42,,,Branch
+189,72,30,Card blocked unexpectedly,General Inquiry,Medium,Escalated,2022-07-31 20:33:45,,,Chat
+190,189,52,Transfer issue,General Inquiry,Low,In Progress,2024-11-18 10:33:47,,,Phone
+191,182,48,Pin change request,Fraud & Security,Medium,Open,2023-07-26 14:24:53,,,Phone
+192,209,29,Pin change request,General Inquiry,Critical,In Progress,2023-10-19 19:53:59,,,Phone
+193,26,48,Wrong charge applied,Digital Banking,High,Escalated,2023-02-17 03:24:16,,,Chat
+194,218,53,Transfer issue,Fraud & Security,Medium,Closed,2022-02-24 23:54:15,2023-07-12 21:40:33,2.0,Chat
+195,13,28,Wrong charge applied,Account Management,Medium,In Progress,2022-08-31 03:43:46,,,Email
+196,113,20,Unauthorized transaction,General Inquiry,Medium,Closed,2024-09-11 18:18:51,2023-02-22 03:48:43,3.0,Branch
+197,77,57,Transfer issue,Fraud & Security,Low,Open,2023-06-21 07:06:26,,,Phone
+198,172,44,Pin change request,Digital Banking,Medium,Escalated,2022-04-11 21:49:50,,,Phone
+199,124,47,Account statement request,General Inquiry,Medium,Escalated,2023-07-22 06:01:05,,,Email
+200,142,38,Mobile app not working,Account Management,High,Resolved,2022-09-11 21:13:45,2024-07-26 22:22:29,4.0,App
+201,321,43,Credit score inquiry,Account Management,Medium,Closed,2022-04-06 21:46:21,2023-12-04 18:29:11,4.0,Email
+202,322,60,Fraud report,Card Services,High,Escalated,2023-10-05 11:16:42,,,Phone
+203,36,47,Unauthorized transaction,Card Services,Medium,Closed,2024-03-25 07:37:10,2023-03-03 14:50:43,1.0,Chat
+204,191,26,Loan prepayment query,General Inquiry,Medium,Resolved,2024-03-24 13:22:31,2024-08-22 03:25:00,1.0,Email
+205,261,31,ATM cash not dispensed,General Inquiry,Critical,Open,2022-06-24 17:12:10,,,Phone
+206,132,38,Account statement request,Card Services,Low,Open,2023-03-11 03:13:51,,,Branch
+207,99,45,Account statement request,General Inquiry,Medium,In Progress,2024-12-21 06:53:19,,,App
+208,146,37,Loan prepayment query,Fraud & Security,Low,In Progress,2022-02-17 19:04:32,,,Branch
+209,44,9,Account statement request,Card Services,High,Resolved,2022-03-29 22:08:29,2024-11-20 20:48:17,3.0,Phone
+210,15,52,Account closure request,Account Management,Low,Resolved,2024-11-30 04:48:40,2023-06-10 17:43:16,1.0,Email
+211,268,33,Mobile app not working,Digital Banking,Medium,Open,2023-07-21 03:01:20,,,Phone
+212,228,52,Account closure request,General Inquiry,Low,Closed,2023-10-08 01:52:27,2023-01-12 23:26:06,4.0,Chat
+213,268,15,Account closure request,Card Services,Medium,Open,2023-02-16 11:24:15,,,Branch
+214,180,8,Transfer issue,General Inquiry,Medium,Open,2024-05-30 12:07:21,,,Branch
+215,34,22,Fraud report,Digital Banking,High,Closed,2022-03-22 09:23:45,2024-06-16 06:54:27,2.0,Phone
+216,63,8,Account statement request,General Inquiry,High,Open,2023-06-05 07:59:15,,,Email
+217,190,40,Account opening,Account Management,Low,Closed,2022-05-30 11:09:08,2023-07-18 21:12:13,2.0,Phone
+218,167,1,Transfer issue,General Inquiry,High,Closed,2022-06-13 04:07:08,2024-05-17 15:52:49,4.0,Email
+219,19,32,Account opening,Loans,Low,Resolved,2023-06-25 05:32:37,2023-06-17 08:17:47,1.0,Email
+220,225,10,Wrong charge applied,General Inquiry,Low,In Progress,2022-01-11 17:06:41,,,App
+221,154,60,Card blocked unexpectedly,Digital Banking,Critical,Resolved,2023-05-14 11:18:23,2024-09-24 00:10:35,2.0,Branch
+222,220,44,Cheque bounce,Fraud & Security,Medium,Open,2024-08-05 03:37:34,,,Email
+223,20,7,Card blocked unexpectedly,Digital Banking,Critical,In Progress,2023-09-26 01:03:17,,,App
+224,303,7,Transfer issue,Card Services,Low,In Progress,2022-04-26 12:47:17,,,App
+225,259,8,Password reset,General Inquiry,Critical,Escalated,2024-11-27 00:21:32,,,Branch
+226,70,43,Password reset,Digital Banking,Critical,Open,2024-07-01 05:34:16,,,Branch
+227,132,40,Interest rate dispute,Account Management,Medium,Resolved,2022-04-30 10:04:19,2023-09-18 12:53:10,5.0,Email
+228,77,26,Pin change request,Account Management,Medium,Resolved,2023-05-29 20:14:02,2024-09-29 13:20:55,1.0,Branch
+229,222,41,Loan prepayment query,Loans,High,In Progress,2024-04-07 06:45:59,,,Chat
+230,43,3,Wrong charge applied,Card Services,Medium,Escalated,2022-04-08 04:06:11,,,App
+231,240,10,Transfer issue,Fraud & Security,Low,In Progress,2024-12-21 14:36:06,,,Branch
+232,265,15,Credit score inquiry,Loans,High,Closed,2024-01-02 06:41:28,2024-01-22 13:33:00,5.0,App
+233,253,1,Beneficiary add failure,General Inquiry,Medium,Open,2022-01-18 23:27:02,,,Chat
+234,313,51,Fraud report,General Inquiry,Medium,Open,2024-02-21 21:01:04,,,Phone
+235,50,23,Mobile app not working,Digital Banking,Medium,In Progress,2022-10-24 16:49:26,,,Phone
+236,128,51,Pin change request,Loans,Low,Escalated,2022-10-08 01:43:32,,,Branch
+237,43,29,Interest rate dispute,Digital Banking,Medium,In Progress,2022-01-26 02:10:21,,,Phone
+238,330,54,Credit score inquiry,Card Services,Critical,In Progress,2023-08-16 09:59:01,,,Branch
+239,57,6,Card blocked unexpectedly,Digital Banking,Medium,Escalated,2023-10-20 12:38:53,,,Phone
+240,14,48,Cheque bounce,Fraud & Security,High,In Progress,2024-08-28 13:40:01,,,Branch
+241,11,50,Beneficiary add failure,Loans,Medium,Closed,2022-12-03 02:14:21,2024-08-11 07:08:33,4.0,Email
+242,305,42,Account closure request,Card Services,High,In Progress,2024-06-24 23:49:45,,,Branch
+243,5,51,Wrong charge applied,Account Management,Low,Closed,2024-09-25 12:06:44,2024-01-19 02:24:30,4.0,App
+244,19,22,Unauthorized transaction,General Inquiry,Critical,Open,2024-10-04 13:45:50,,,Phone
+245,23,27,Loan prepayment query,Fraud & Security,Medium,Escalated,2022-12-05 19:50:54,,,Phone
+246,19,23,Account closure request,Loans,Medium,Escalated,2024-02-24 12:00:21,,,Chat
+247,294,48,ATM cash not dispensed,Card Services,Medium,Open,2024-06-27 19:49:22,,,Chat
+248,34,26,Unauthorized transaction,Account Management,Low,In Progress,2023-10-11 23:58:18,,,Email
+249,300,40,Unauthorized transaction,Loans,High,Escalated,2024-09-14 12:24:26,,,Phone
+250,323,33,Loan application inquiry,General Inquiry,Medium,Escalated,2022-07-02 18:20:13,,,App

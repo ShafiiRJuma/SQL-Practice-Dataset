@@ -1,0 +1,61 @@
+employee_id,branch_id,first_name,last_name,email,phone,department,position,salary,hire_date,is_active,manager_id
+1,1,Judy,Lewis,judy.lewis1@firstnational.bank,(959) 555-5506,Customer Service,Risk Analyst,47767.79,2004-08-06,1,
+2,2,Zawadi,Freeman,zawadi.freeman2@firstnational.bank,(804) 555-7912,Retail Banking,Branch Manager,42587.56,2010-06-08,1,
+3,1,Martha,Osei,martha.osei3@firstnational.bank,(774) 555-4257,Fraud Detection,Insurance Agent,56909.79,2012-06-23,1,
+4,7,Mary,Green,mary.green4@firstnational.bank,(548) 555-5552,Mortgage,Compliance Officer,140165.08,2015-02-05,1,
+5,7,Anthony,White,anthony.white5@firstnational.bank,(299) 555-6881,Insurance,Fraud Analyst,100221.04,2001-12-12,1,
+6,2,Joan,Washington,joan.washington6@firstnational.bank,(587) 555-2291,HR,HR Specialist,125722.73,2016-03-22,1,
+7,2,Alice,Roberts,alice.roberts7@firstnational.bank,(246) 555-4733,Wealth Management,HR Specialist,143330.03,2010-06-11,1,
+8,5,Betty,Butler,betty.butler8@firstnational.bank,(664) 555-6977,Mortgage,Fraud Analyst,72145.59,2011-12-23,1,
+9,10,Baraka,Jackson,baraka.jackson9@firstnational.bank,(850) 555-3803,HR,Risk Analyst,50464.48,2017-01-07,1,
+10,4,Anna,Vasquez,anna.vasquez10@firstnational.bank,(901) 555-6313,Insurance,Teller,57882.43,2001-06-09,1,
+11,5,Benjamin,Simmons,benjamin.simmons11@firstnational.bank,(267) 555-4456,Finance,Operations Manager,56026.8,2022-05-24,1,7.0
+12,3,Gabriel,Chavez,gabriel.chavez12@firstnational.bank,(471) 555-3287,Customer Service,Marketing Analyst,116412.56,2019-03-21,1,10.0
+13,4,Aaron,Russell,aaron.russell13@firstnational.bank,(341) 555-9348,Marketing,Loan Officer,117403.38,2004-12-01,1,3.0
+14,7,Joe,Green,joe.green14@firstnational.bank,(810) 555-2040,IT,Wealth Manager,99335.39,2020-12-29,1,9.0
+15,1,Nicholas,Henry,nicholas.henry15@firstnational.bank,(896) 555-2876,Operations,Marketing Analyst,118851.66,2015-04-05,1,2.0
+16,3,Emma,Ramos,emma.ramos16@firstnational.bank,(664) 555-1053,Fraud Detection,Marketing Analyst,141823.36,2008-01-06,1,9.0
+17,9,Margaret,Brooks,margaret.brooks17@firstnational.bank,(823) 555-4258,Mortgage,Fraud Analyst,118163.72,2000-01-10,1,11.0
+18,2,Megan,Jones,megan.jones18@firstnational.bank,(571) 555-6038,Customer Service,Teller,59218.49,2003-07-14,1,3.0
+19,9,Noah,Moore,noah.moore19@firstnational.bank,(984) 555-3060,Mortgage,Vice President,138993.9,2007-05-29,1,9.0
+20,7,Hannah,Diallo,hannah.diallo20@firstnational.bank,(416) 555-9835,Wealth Management,Compliance Officer,112563.23,2017-11-24,1,12.0
+21,8,Douglas,Woods,douglas.woods21@firstnational.bank,(323) 555-5061,Customer Service,Loan Officer,70203.67,2010-04-28,1,19.0
+22,2,Jeffrey,Johnson,jeffrey.johnson22@firstnational.bank,(924) 555-1964,Customer Service,Loan Officer,134312.46,2014-10-27,1,3.0
+23,5,Andrea,Rogers,andrea.rogers23@firstnational.bank,(885) 555-8953,Customer Service,Financial Advisor,113738.84,2021-03-15,1,8.0
+24,4,Olivia,Jordan,olivia.jordan24@firstnational.bank,(296) 555-2588,Operations,Insurance Agent,72035.63,2018-06-10,1,15.0
+25,1,Susan,Sanchez,susan.sanchez25@firstnational.bank,(612) 555-6559,Wealth Management,Customer Service Rep,60098.17,2008-07-13,1,18.0
+26,7,Zachary,Scott,zachary.scott26@firstnational.bank,(387) 555-5563,Marketing,Risk Analyst,130816.91,2003-05-20,1,15.0
+27,1,Gerald,Sanchez,gerald.sanchez27@firstnational.bank,(867) 555-9856,Insurance,Branch Manager,141496.58,2010-08-08,1,6.0
+28,8,Jose,Marshall,jose.marshall28@firstnational.bank,(418) 555-7570,Retail Banking,IT Specialist,74823.96,2017-07-06,1,9.0
+29,7,Peter,Richardson,peter.richardson29@firstnational.bank,(913) 555-8973,Mortgage,Compliance Officer,65527.98,2002-08-16,1,19.0
+30,6,Sean,Thomas,sean.thomas30@firstnational.bank,(258) 555-1821,Finance,Vice President,88822.09,2007-01-23,1,2.0
+31,3,Keith,Lee,keith.lee31@firstnational.bank,(270) 555-2113,Operations,Risk Analyst,77626.64,2011-01-16,1,19.0
+32,10,Jordan,Hernandez,jordan.hernandez32@firstnational.bank,(283) 555-7868,Operations,Operations Manager,137621.81,2009-02-28,1,22.0
+33,5,Benjamin,Morgan,benjamin.morgan33@firstnational.bank,(605) 555-3144,Operations,HR Specialist,83666.38,2003-04-03,1,1.0
+34,2,Joan,Simpson,joan.simpson34@firstnational.bank,(275) 555-9808,Customer Service,Marketing Analyst,46967.59,2015-08-28,1,5.0
+35,5,Gary,Jenkins,gary.jenkins35@firstnational.bank,(361) 555-8179,Insurance,HR Specialist,101119.59,2000-05-08,1,20.0
+36,3,Denise,Clark,denise.clark36@firstnational.bank,(470) 555-2891,Commercial Banking,Financial Advisor,62775.35,2009-06-12,1,22.0
+37,9,Edward,Gomez,edward.gomez37@firstnational.bank,(700) 555-5114,Insurance,Teller,42429.73,2018-12-31,1,18.0
+38,6,Elizabeth,Smith,elizabeth.smith38@firstnational.bank,(989) 555-3143,Operations,Marketing Analyst,50258.76,2019-10-27,1,36.0
+39,1,Ruth,Snyder,ruth.snyder39@firstnational.bank,(314) 555-2232,Fraud Detection,Financial Advisor,93651.7,2016-07-24,1,38.0
+40,7,Gloria,Nguyen,gloria.nguyen40@firstnational.bank,(330) 555-1685,Risk Management,Fraud Analyst,133584.91,2001-10-15,1,23.0
+41,2,Rebecca,Cooper,rebecca.cooper41@firstnational.bank,(562) 555-7658,Finance,Financial Advisor,136611.31,2010-08-14,1,11.0
+42,1,Amanda,Reynolds,amanda.reynolds42@firstnational.bank,(383) 555-6442,Wealth Management,Insurance Agent,122652.57,2011-02-17,1,18.0
+43,7,Kenneth,Ramirez,kenneth.ramirez43@firstnational.bank,(239) 555-8711,Customer Service,Compliance Officer,124274.29,2020-08-24,1,23.0
+44,4,Brandon,Murphy,brandon.murphy44@firstnational.bank,(224) 555-4164,IT,Operations Manager,63482.15,2003-02-11,1,18.0
+45,7,Rachel,Wells,rachel.wells45@firstnational.bank,(895) 555-9785,Compliance,Branch Manager,45033.62,2011-09-19,1,12.0
+46,1,Arthur,Gomez,arthur.gomez46@firstnational.bank,(311) 555-8119,Compliance,Operations Manager,81312.51,2022-12-10,1,8.0
+47,4,Jerry,Mwangi,jerry.mwangi47@firstnational.bank,(460) 555-1727,Fraud Detection,Insurance Agent,32191.11,2008-11-02,1,24.0
+48,6,Henry,Moore,henry.moore48@firstnational.bank,(838) 555-6143,Operations,Customer Service Rep,113332.23,2013-06-21,1,33.0
+49,6,Helen,Jordan,helen.jordan49@firstnational.bank,(612) 555-5844,HR,Financial Advisor,53677.93,2017-01-02,1,44.0
+50,5,Brian,Crawford,brian.crawford50@firstnational.bank,(615) 555-9977,Insurance,Branch Manager,66337.87,2009-06-05,1,28.0
+51,6,Arthur,Diallo,arthur.diallo51@firstnational.bank,(676) 555-8238,Marketing,Compliance Officer,89762.66,2007-08-12,1,43.0
+52,9,Lisa,Diaz,lisa.diaz52@firstnational.bank,(879) 555-6491,Commercial Banking,Risk Analyst,108025.91,2010-01-28,1,13.0
+53,1,Emily,Miller,emily.miller53@firstnational.bank,(450) 555-8784,Finance,Loan Officer,83462.03,2008-09-20,1,46.0
+54,7,Jerry,Mcdonald,jerry.mcdonald54@firstnational.bank,(449) 555-3417,Operations,Branch Manager,132870.56,2004-10-12,1,50.0
+55,3,Nathan,Stewart,nathan.stewart55@firstnational.bank,(912) 555-9486,Marketing,Teller,94986.85,2005-06-11,1,30.0
+56,9,Paul,Gibson,paul.gibson56@firstnational.bank,(772) 555-6198,Wealth Management,Senior Manager,101229.71,2022-08-23,1,28.0
+57,3,Gerald,West,gerald.west57@firstnational.bank,(961) 555-8777,Marketing,Marketing Analyst,116950.78,2012-06-09,1,50.0
+58,4,Frances,Marshall,frances.marshall58@firstnational.bank,(481) 555-8206,Commercial Banking,HR Specialist,58497.77,2015-01-24,1,21.0
+59,3,Sean,Lee,sean.lee59@firstnational.bank,(354) 555-4788,IT,Financial Advisor,111825.36,2002-11-18,1,27.0
+60,9,Jose,Myers,jose.myers60@firstnational.bank,(677) 555-7812,Retail Banking,Compliance Officer,126116.7,2017-06-21,1,58.0

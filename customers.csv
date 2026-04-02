@@ -1,0 +1,331 @@
+customer_id,first_name,last_name,date_of_birth,gender,email,phone,address,city,state,zip_code,nationality,occupation,annual_income,credit_score,customer_since,branch_id,assigned_employee,kyc_verified,is_active
+1,Teresa,Garcia,1981-07-23,F,teresa.garcia1@email.com,(971) 599-7865,6233 Lake St,Kansas City,MO,80545,US,Administrative Assistant,283556.23,525,2021-11-25,4,18,1,0
+2,Gregory,Patterson,1997-12-02,M,gregory.patterson2@email.com,(603) 806-1444,7658 Cedar Rd,Austin,TX,21003,US,Real Estate Agent,63052.23,772,2008-02-25,1,17,1,1
+3,Katherine,Foster,1957-05-07,F,katherine.foster3@email.com,(219) 967-9837,4559 Park Blvd,Las Vegas,NV,16826,US,Professor,92441.76,370,2001-10-21,1,16,1,0
+4,Donna,Morgan,1969-07-22,F,donna.morgan4@email.com,(916) 462-7043,7759 Maple Rd,Dallas,TX,31992,US,Electrician,276226.91,467,2013-12-14,2,38,0,1
+5,Zawadi,Perry,1971-10-15,M,zawadi.perry5@email.com,(913) 991-5941,3250 Maple Rd,Memphis,TN,99687,US,Electrician,282347.44,342,2015-07-29,9,28,1,1
+6,Abigail,Sanders,1988-11-22,F,abigail.sanders6@email.com,(850) 670-3506,6883 Lake St,New York,NY,67080,US,Police Officer,261620.04,576,2021-09-08,8,28,1,1
+7,Samuel,Peterson,1991-09-10,Other,samuel.peterson7@email.com,(824) 884-7209,4570 Lake Ave,Philadelphia,PA,54092,US,Teacher,182109.76,632,2008-02-27,8,14,1,1
+8,Brenda,Nkosi,1967-02-21,M,brenda.nkosi8@email.com,(447) 937-7658,9107 Oak Rd,Seattle,WA,74038,US,Self-Employed,269710.66,787,2022-01-06,8,51,0,1
+9,Julie,Peterson,1999-08-28,Other,julie.peterson9@email.com,(552) 635-6419,9529 Washington Dr,Nashville,TN,56112,US,Logistics Coordinator,107944.25,557,2010-05-05,2,47,1,1
+10,Jacqueline,Mitchell,2002-11-23,Other,jacqueline.mitchell10@email.com,(811) 489-2647,3546 Lake Blvd,Fort Worth,TX,35443,US,Data Scientist,93524.41,483,2013-07-23,1,46,1,1
+11,Susan,Henry,1951-02-06,Other,susan.henry11@email.com,(491) 680-8843,2069 Lake St,Denver,CO,67733,US,Financial Advisor,79208.74,352,2011-04-29,8,8,1,1
+12,Charles,Mwangi,1977-04-05,M,charles.mwangi12@email.com,(454) 321-7818,2486 Cedar Rd,Houston,TX,89471,US,Pharmacist,275530.26,689,2020-03-17,8,20,1,1
+13,Brandon,Crawford,1958-11-26,M,brandon.crawford13@email.com,(840) 416-5335,987 Hill Ln,Colorado Springs,CO,96563,US,Manager,70142.96,477,2003-05-14,3,1,1,1
+14,Ethan,Wood,1975-05-14,F,ethan.wood14@email.com,(272) 903-4824,3793 Elm Ln,Chicago,IL,44675,US,Student,237512.77,502,2019-01-26,2,35,1,1
+15,Jonathan,Torres,2001-01-24,F,jonathan.torres15@email.com,(649) 327-8679,978 Cedar Blvd,Phoenix,AZ,49857,US,Journalist,330968.51,812,2022-02-24,8,6,1,1
+16,Samuel,Osei,2001-08-09,Other,samuel.osei16@email.com,(221) 983-5415,424 Maple Ave,San Francisco,CA,85529,US,Nurse,271352.19,479,2021-02-07,9,42,1,1
+17,Teresa,Ramos,1986-08-20,F,teresa.ramos17@email.com,(528) 886-2713,1495 Lake Blvd,Oakland,CA,31079,US,Financial Advisor,154666.17,807,2012-12-05,7,53,1,0
+18,Daniel,Reyes,1996-03-02,M,daniel.reyes18@email.com,(873) 755-8569,5297 Maple Dr,San Francisco,CA,64165,US,Doctor,80277.4,670,2022-05-12,8,49,1,1
+19,Dorothy,Richardson,1971-06-21,M,dorothy.richardson19@email.com,(518) 764-1224,7942 Maple St,Baltimore,MD,82384,US,Graphic Designer,48945.45,416,2020-09-12,2,42,1,1
+20,Justin,Wells,1971-11-13,F,justin.wells20@email.com,(764) 348-7284,6808 Lake Dr,Seattle,WA,34983,US,Truck Driver,265769.13,439,2003-02-17,5,50,1,1
+21,Martha,Kelly,2002-01-10,F,martha.kelly21@email.com,(352) 657-9824,4635 Elm Rd,New York,NY,73483,US,Professor,128370.07,686,2020-06-04,6,56,1,1
+22,Dylan,Barnes,1992-06-07,F,dylan.barnes22@email.com,(595) 879-3492,6731 Oak Blvd,Charlotte,NC,74923,US,Nurse,59913.76,639,2004-07-02,8,7,1,1
+23,Andrew,Jordan,1980-05-16,Other,andrew.jordan23@email.com,(909) 607-2315,1226 Lake Blvd,San Jose,CA,53065,US,Administrative Assistant,144163.12,624,2021-11-20,9,3,1,1
+24,Neema,Richardson,1959-01-07,F,neema.richardson24@email.com,(370) 910-5906,1481 Park St,Charlotte,NC,13794,US,Nurse,125692.39,357,2013-02-27,6,24,1,1
+25,Joyce,Simpson,1984-04-27,Other,joyce.simpson25@email.com,(899) 446-9153,2786 Cedar St,Jacksonville,FL,86435,US,Mechanic,95086.56,560,2020-08-12,5,43,0,1
+26,Pamela,Freeman,2002-09-18,F,pamela.freeman26@email.com,(854) 634-5097,1211 Lake Blvd,Austin,TX,69878,US,Architect,84140.04,693,2021-09-03,2,16,1,1
+27,Emma,Watson,2000-10-09,M,emma.watson27@email.com,(820) 963-9138,6485 Elm St,Los Angeles,CA,47512,US,Pharmacist,219545.58,660,2009-10-28,4,40,1,1
+28,Albert,Scott,1952-12-29,Other,albert.scott28@email.com,(573) 949-3153,646 Elm Dr,San Antonio,TX,21813,US,Data Scientist,126470.75,725,2007-11-17,4,9,1,1
+29,Janet,Olson,1993-03-25,F,janet.olson29@email.com,(964) 546-2886,4466 Cedar Blvd,Minneapolis,MN,71385,US,Accountant,64731.33,531,2017-10-29,9,24,1,1
+30,Shirley,Washington,1973-07-09,Other,shirley.washington30@email.com,(590) 853-7086,7452 Washington Ln,San Diego,CA,24201,US,Pharmacist,174530.32,635,2009-12-05,2,41,1,1
+31,Nicole,Jordan,1977-04-22,F,nicole.jordan31@email.com,(318) 299-4846,2291 Oak St,San Diego,CA,80457,US,Plumber,147030.42,679,2018-10-19,10,48,1,1
+32,Marie,Sanchez,1983-03-30,M,marie.sanchez32@email.com,(654) 655-4868,6687 Elm St,Oakland,CA,57537,US,Sales Representative,343668.0,676,2016-02-02,1,26,1,1
+33,Peter,White,1979-12-03,M,peter.white33@email.com,(328) 778-4362,9784 Oak St,Columbus,OH,18992,US,Self-Employed,86776.25,521,2010-06-14,6,50,1,1
+34,James,Ward,1965-08-27,M,james.ward34@email.com,(876) 226-3159,2130 River Blvd,San Jose,CA,11947,US,Professor,280274.91,543,2014-07-10,1,12,1,1
+35,Victoria,Castillo,1982-06-25,Other,victoria.castillo35@email.com,(807) 311-8405,1042 Lake Dr,San Diego,CA,76039,US,Pharmacist,331877.99,344,2023-05-23,5,30,1,0
+36,Walter,Simmons,1989-10-17,M,walter.simmons36@email.com,(282) 529-3430,1769 Lake Ln,Portland,OR,18609,US,Plumber,109305.31,632,2017-01-31,10,34,1,1
+37,Henry,Sanchez,1990-07-06,M,henry.sanchez37@email.com,(623) 547-8430,9034 Pine Dr,San Diego,CA,62262,US,Graphic Designer,260231.35,620,2019-02-22,6,43,1,1
+38,Neema,Stevens,1988-09-29,M,neema.stevens38@email.com,(962) 956-7105,1495 Maple St,Phoenix,AZ,27054,US,Self-Employed,37913.68,637,2005-06-25,7,23,1,1
+39,Nathan,Wilson,1959-04-18,Other,nathan.wilson39@email.com,(719) 417-3535,9838 Elm Blvd,Denver,CO,96079,US,Retail Associate,92449.3,410,2015-09-15,9,24,1,1
+40,Laura,Gonzales,1973-12-29,M,laura.gonzales40@email.com,(384) 479-6062,9122 Oak Rd,Cleveland,OH,54541,US,Professor,20027.12,446,2017-12-23,2,10,1,1
+41,Nancy,Olson,1980-08-01,M,nancy.olson41@email.com,(578) 519-6314,6164 Park Dr,Columbus,OH,84395,US,Manager,311269.61,459,2007-01-23,10,4,1,1
+42,Denise,Kim,1974-07-05,M,denise.kim42@email.com,(973) 724-2864,9947 Lake Dr,Oakland,CA,55242,US,Real Estate Agent,54815.4,798,2023-08-21,5,3,1,1
+43,Joseph,Johnson,1972-12-03,F,joseph.johnson43@email.com,(535) 322-1126,4939 Pine Ave,Columbus,OH,75193,US,Real Estate Agent,76330.67,689,2023-11-21,4,33,1,1
+44,Alexander,Jackson,1991-04-01,M,alexander.jackson44@email.com,(520) 789-8033,694 Park St,Memphis,TN,85156,US,Journalist,253553.66,727,2012-12-26,2,26,0,1
+45,Billy,Chavez,1971-10-30,F,billy.chavez45@email.com,(803) 610-9584,1444 Park St,Boston,MA,20308,US,Journalist,307014.11,647,2009-12-09,6,50,1,1
+46,Sandra,Olson,1963-04-02,M,sandra.olson46@email.com,(305) 349-5193,3177 Washington Blvd,Minneapolis,MN,35856,US,Police Officer,217996.46,377,2007-12-12,8,30,1,1
+47,Zachary,Simpson,1989-06-15,M,zachary.simpson47@email.com,(680) 652-5961,5296 Washington Ave,Colorado Springs,CO,46002,US,Student,36649.14,819,2003-04-30,5,30,1,1
+48,Pamela,Martin,1991-07-07,Other,pamela.martin48@email.com,(767) 956-1672,9734 River Dr,Philadelphia,PA,68947,US,Retired,234410.03,629,2021-05-02,9,10,1,1
+49,Debra,Perez,1989-04-10,F,debra.perez49@email.com,(736) 735-3600,2828 Oak Ave,Minneapolis,MN,57696,US,Dentist,322755.01,696,2018-05-03,6,44,1,1
+50,Abigail,Long,1984-09-05,F,abigail.long50@email.com,(458) 941-3463,5402 Maple Rd,Phoenix,AZ,53694,US,Manager,211469.52,444,2015-09-10,5,42,1,1
+51,Jordan,Perez,1979-06-21,M,jordan.perez51@email.com,(886) 919-9624,9158 Park Ln,Nashville,TN,22249,US,Real Estate Agent,186818.18,318,2016-04-06,5,12,1,1
+52,Noah,Roberts,1976-07-15,M,noah.roberts52@email.com,(719) 989-9843,2254 Cedar St,Charlotte,NC,79013,US,Nurse,237760.51,434,2016-11-24,3,11,1,1
+53,Julia,Nelson,1971-04-24,F,julia.nelson53@email.com,(825) 491-8355,716 Park Blvd,Baltimore,MD,40671,US,Administrative Assistant,97403.94,780,2008-09-13,6,44,1,1
+54,Kyle,Diaz,1964-07-16,M,kyle.diaz54@email.com,(819) 341-5096,8240 River Dr,Las Vegas,NV,16839,US,Retail Associate,308206.83,405,2023-02-21,2,19,1,1
+55,Christina,Alvarez,1990-06-22,F,christina.alvarez55@email.com,(227) 624-1872,7168 Maple Ave,San Jose,CA,61964,US,Truck Driver,142155.21,695,2003-08-30,6,15,0,1
+56,Logan,Long,1992-05-21,M,logan.long56@email.com,(977) 922-8685,2255 Oak Blvd,San Jose,CA,68799,US,Software Engineer,318744.69,319,2011-06-25,4,54,1,1
+57,Doris,Olson,1977-01-07,M,doris.olson57@email.com,(248) 444-7878,1822 Elm Ave,Portland,OR,93748,US,Logistics Coordinator,38851.97,811,2000-09-26,9,37,1,1
+58,Ruth,Smith,1987-05-17,M,ruth.smith58@email.com,(880) 884-2402,5781 Pine Rd,Colorado Springs,CO,78614,US,Dentist,40469.54,838,2022-10-04,9,36,0,1
+59,Elizabeth,Fisher,1956-01-23,F,elizabeth.fisher59@email.com,(446) 950-2698,4156 Oak Blvd,Boston,MA,86271,US,Financial Advisor,62291.98,660,2015-03-09,3,54,1,1
+60,Walter,Campbell,1976-04-29,M,walter.campbell60@email.com,(244) 404-1686,1034 Lake St,Dallas,TX,51365,US,Architect,189107.35,784,2011-05-13,1,49,1,1
+61,Richard,Myers,1985-11-20,F,richard.myers61@email.com,(595) 547-4060,2040 Washington Dr,Seattle,WA,75038,US,Security Guard,139959.18,831,2011-12-18,2,47,1,1
+62,George,Freeman,1979-06-03,F,george.freeman62@email.com,(513) 656-7981,5263 Maple St,Denver,CO,31842,US,Human Resources,134713.6,343,2015-10-25,10,28,1,1
+63,Joseph,Martin,1964-05-09,M,joseph.martin63@email.com,(346) 822-8179,5953 River Ln,Memphis,TN,14561,US,Plumber,40321.48,675,2016-03-30,7,37,0,1
+64,Christina,Jenkins,1962-05-09,Other,christina.jenkins64@email.com,(575) 607-6150,7274 Maple Rd,Boston,MA,95139,US,Business Analyst,100871.07,416,2001-02-28,3,32,1,1
+65,Donald,Gomez,1975-08-15,F,donald.gomez65@email.com,(404) 325-3223,7312 Pine Rd,San Francisco,CA,19706,US,Human Resources,75321.91,755,2003-12-09,6,43,1,1
+66,Sean,Wood,1995-08-23,M,sean.wood66@email.com,(324) 405-3275,2581 Cedar Blvd,Nashville,TN,41029,US,Security Guard,26726.3,677,2020-12-18,9,9,1,1
+67,Helen,Coleman,2001-07-30,M,helen.coleman67@email.com,(328) 524-2215,8613 Park Dr,Miami,FL,68979,US,Logistics Coordinator,243796.18,652,2005-10-03,9,41,1,1
+68,Dorothy,Alexander,1963-09-24,F,dorothy.alexander68@email.com,(368) 365-6286,908 Maple Rd,Minneapolis,MN,39552,US,Professor,332564.4,831,2012-09-27,2,17,1,1
+69,Stephen,Allen,1965-02-16,Other,stephen.allen69@email.com,(794) 357-3804,8741 Maple Rd,Nashville,TN,96341,US,Financial Advisor,297719.96,342,2001-04-09,2,3,1,1
+70,Shirley,Parker,1952-09-19,F,shirley.parker70@email.com,(842) 758-5745,6826 Hill Ln,Kansas City,MO,94136,US,Architect,178337.68,715,2013-05-05,8,5,1,1
+71,Adam,Ford,1962-11-21,F,adam.ford71@email.com,(935) 526-6658,3343 Washington Rd,Milwaukee,WI,62260,US,Plumber,270540.78,827,2004-10-05,6,16,1,1
+72,Amy,Torres,1987-07-07,M,amy.torres72@email.com,(363) 535-6123,830 Elm Dr,San Antonio,TX,34881,US,Lawyer,183424.16,827,2020-12-09,8,57,1,0
+73,Tyler,Kennedy,1981-08-29,M,tyler.kennedy73@email.com,(251) 488-9108,3945 Pine Rd,Milwaukee,WI,88317,US,Retail Associate,112868.46,308,2004-10-27,7,9,1,1
+74,Julie,Ortiz,2000-05-27,M,julie.ortiz74@email.com,(571) 766-5728,6564 Oak Rd,Chicago,IL,19637,US,Veterinarian,185412.84,586,2005-04-30,3,7,1,1
+75,Gregory,Vasquez,1995-09-04,F,gregory.vasquez75@email.com,(712) 241-1742,2364 Pine Rd,Boston,MA,15100,US,Plumber,254912.49,785,2023-04-18,8,10,1,1
+76,Katherine,Cruz,1976-11-05,Other,katherine.cruz76@email.com,(544) 719-9351,6439 Hill Ln,Austin,TX,79774,US,Security Guard,253301.62,606,2021-04-20,1,24,1,1
+77,Adam,Kipchoge,1973-10-27,Other,adam.kipchoge77@email.com,(791) 433-1841,437 Hill Dr,Nashville,TN,86483,US,Retail Associate,74610.0,689,2006-08-18,4,3,1,1
+78,Timothy,Jones,1987-01-18,M,timothy.jones78@email.com,(620) 713-8726,5140 Park Ave,Baltimore,MD,18163,US,Plumber,190202.83,632,2021-06-16,9,25,1,1
+79,Austin,Sanders,1993-06-09,M,austin.sanders79@email.com,(452) 485-5890,5805 Elm Rd,Atlanta,GA,39473,US,Architect,274029.86,512,2021-12-07,6,31,1,1
+80,Stephen,Richardson,1985-05-25,F,stephen.richardson80@email.com,(991) 349-5758,9396 River Dr,San Diego,CA,15513,US,Data Scientist,335164.15,380,2015-07-15,8,42,1,1
+81,Stephanie,Washington,1959-10-20,Other,stephanie.washington81@email.com,(958) 800-4920,9209 Elm Ave,Seattle,WA,41779,US,Doctor,240384.88,843,2010-02-14,4,4,1,1
+82,Ethan,Sanchez,1986-07-04,F,ethan.sanchez82@email.com,(688) 866-4267,85 River Ave,Dallas,TX,47649,US,Consultant,112757.89,360,2004-01-05,10,15,1,1
+83,Barbara,Hall,1994-06-11,M,barbara.hall83@email.com,(966) 496-1613,2881 Oak Dr,Louisville,KY,11214,US,Architect,206563.34,409,2015-01-11,5,30,1,1
+84,Jeremy,Wright,1960-02-09,F,jeremy.wright84@email.com,(366) 948-8518,7669 Elm Ave,Minneapolis,MN,94972,US,Marketing Specialist,256574.59,314,2015-02-14,5,37,1,1
+85,Bryan,Patterson,1985-12-17,M,bryan.patterson85@email.com,(389) 343-8822,8443 Washington St,Portland,OR,52415,US,Civil Engineer,20267.6,692,2010-07-25,8,49,1,1
+86,Teresa,Juma,1971-03-15,M,teresa.juma86@email.com,(883) 321-8625,4286 Washington Ln,New York,NY,50213,US,Lawyer,152598.32,814,2013-12-13,2,41,1,1
+87,Madison,Stewart,1990-10-26,Other,madison.stewart87@email.com,(582) 625-9998,2189 Lake Ave,Charlotte,NC,71712,US,Administrative Assistant,284262.34,523,2011-02-06,10,56,1,1
+88,Hannah,Russell,1999-02-18,Other,hannah.russell88@email.com,(407) 786-9792,9244 Maple St,Phoenix,AZ,29641,US,Lawyer,126935.06,832,2019-10-27,2,44,1,1
+89,Nancy,Wells,1996-01-18,F,nancy.wells89@email.com,(667) 777-1945,912 Lake Ave,Baltimore,MD,83242,US,Logistics Coordinator,241358.88,615,2000-12-22,7,17,1,1
+90,Arthur,Jackson,1955-09-21,Other,arthur.jackson90@email.com,(261) 270-8734,6942 Washington Ln,Chicago,IL,14159,US,Data Scientist,153743.82,438,2018-11-09,6,58,1,1
+91,Dennis,Perry,1981-03-14,M,dennis.perry91@email.com,(382) 750-7439,8836 Cedar Ln,Philadelphia,PA,79316,US,Plumber,259648.9,528,2000-02-26,1,20,1,1
+92,Nathan,Webb,1981-01-20,M,nathan.webb92@email.com,(482) 393-2848,3763 Pine Dr,Las Vegas,NV,14222,US,Graphic Designer,222154.5,316,2010-10-18,4,5,1,0
+93,Janice,Gonzalez,1971-01-09,Other,janice.gonzalez93@email.com,(422) 972-1924,725 Park Dr,Indianapolis,IN,28367,US,Truck Driver,347836.5,539,2014-04-21,10,39,1,1
+94,Jacob,Bennett,1976-12-16,F,jacob.bennett94@email.com,(262) 770-3869,8541 Pine Dr,San Jose,CA,92050,US,Real Estate Agent,202542.42,348,2015-06-13,7,51,1,1
+95,Jose,Hill,1992-06-25,M,jose.hill95@email.com,(430) 507-3365,6168 Cedar Rd,Nashville,TN,70689,US,Doctor,204712.14,726,2023-10-10,3,25,1,1
+96,Abigail,Lee,1967-02-02,M,abigail.lee96@email.com,(474) 586-1647,6080 Maple Rd,Baltimore,MD,19539,US,Firefighter,285144.01,522,2021-07-03,4,56,1,1
+97,Patricia,Collins,1968-05-07,F,patricia.collins97@email.com,(445) 765-6269,1923 Lake Ave,Fort Worth,TX,47101,US,Veterinarian,172795.15,667,2013-11-01,5,24,1,1
+98,Betty,Ellis,1987-02-19,M,betty.ellis98@email.com,(776) 426-3390,3329 Washington Blvd,Oklahoma City,OK,12125,US,Marketing Specialist,201699.44,727,2013-03-29,3,13,1,1
+99,Gary,Harrison,1994-01-05,F,gary.harrison99@email.com,(372) 950-6770,5531 Elm Dr,Cleveland,OH,32185,US,Plumber,257144.09,800,2008-04-03,9,42,1,1
+100,Karen,Gonzalez,1970-10-06,M,karen.gonzalez100@email.com,(924) 354-1149,6757 Cedar Ln,New York,NY,38668,US,Truck Driver,169395.21,361,2021-09-03,8,2,0,1
+101,Patricia,Jones,1951-07-16,Other,patricia.jones101@email.com,(914) 890-8054,4502 River Blvd,Tampa,FL,33496,US,Sales Representative,322792.22,836,2006-09-05,4,13,1,1
+102,Alexander,Kelly,1991-03-07,Other,alexander.kelly102@email.com,(449) 913-4700,1295 Washington Dr,Memphis,TN,49318,US,Manager,235040.26,332,2004-03-11,7,25,1,1
+103,Judy,Williams,1979-09-21,Other,judy.williams103@email.com,(297) 740-1697,1355 Lake Dr,Austin,TX,40115,US,Chef,317222.62,786,2012-02-28,1,60,1,1
+104,Ann,Simpson,1968-08-02,Other,ann.simpson104@email.com,(347) 970-7525,2939 Washington St,Chicago,IL,20084,US,Architect,71933.48,546,2017-06-15,9,22,1,1
+105,Hassan,Lee,1989-03-19,M,hassan.lee105@email.com,(277) 548-7499,5667 Oak St,Minneapolis,MN,52778,US,Teacher,228528.82,761,2022-01-03,4,23,1,1
+106,Melissa,Kipchoge,1972-02-10,M,melissa.kipchoge106@email.com,(284) 474-3526,1405 Hill Blvd,Las Vegas,NV,59807,US,Mechanic,263565.56,624,2016-03-06,2,6,0,1
+107,Patrick,Howard,1988-08-31,F,patrick.howard107@email.com,(770) 768-9395,2171 Maple Ave,San Antonio,TX,63483,US,Sales Representative,26718.95,662,2004-03-04,10,39,1,1
+108,Patricia,Wood,2000-03-13,M,patricia.wood108@email.com,(785) 733-3778,6354 Maple Ln,Louisville,KY,99825,US,Veterinarian,74274.58,575,2013-07-04,5,32,1,1
+109,Stephen,Graham,1972-07-31,M,stephen.graham109@email.com,(938) 840-9123,7934 Maple Blvd,Nashville,TN,87831,US,Firefighter,170010.06,438,2013-08-31,1,26,1,1
+110,Raymond,Wallace,1976-12-14,F,raymond.wallace110@email.com,(817) 911-4290,7056 Hill Ave,El Paso,TX,72784,US,Consultant,76975.57,707,2014-04-25,5,48,1,1
+111,Alice,Peterson,1982-09-30,M,alice.peterson111@email.com,(777) 404-9939,6162 Elm Dr,Oklahoma City,OK,33583,US,Self-Employed,26936.15,772,2009-05-27,8,52,1,1
+112,Jose,Harrison,1963-10-30,F,jose.harrison112@email.com,(586) 275-8357,4962 Pine Blvd,Dallas,TX,88372,US,Retail Associate,211305.01,847,2022-09-22,7,35,0,1
+113,Jacqueline,Nkosi,1981-11-06,M,jacqueline.nkosi113@email.com,(862) 827-1725,1792 Pine Ln,Philadelphia,PA,83822,US,Journalist,338981.3,639,2019-04-23,2,1,1,1
+114,Roger,Vasquez,1983-07-26,F,roger.vasquez114@email.com,(674) 990-9199,9425 Pine Dr,Raleigh,NC,29758,US,Professor,349237.3,794,2004-09-08,5,27,1,1
+115,Andrew,Morales,1996-10-01,F,andrew.morales115@email.com,(556) 687-2599,5621 Lake Ave,Nashville,TN,67431,US,Human Resources,123877.95,607,2002-01-02,2,2,1,1
+116,Zawadi,Nelson,1964-05-14,F,zawadi.nelson116@email.com,(773) 636-8570,8455 Cedar Rd,Indianapolis,IN,40389,US,Journalist,227080.43,490,2019-05-21,7,2,1,1
+117,Christina,Hassan,1969-04-09,M,christina.hassan117@email.com,(485) 970-2025,6371 Oak Ln,Portland,OR,85674,US,Sales Representative,283434.78,849,2008-05-21,6,21,1,1
+118,Fatuma,Owens,1985-03-20,Other,fatuma.owens118@email.com,(316) 556-6766,5135 Hill Dr,Tampa,FL,70012,US,Police Officer,288161.1,604,2003-10-20,3,21,1,1
+119,George,Gutierrez,1962-05-15,Other,george.gutierrez119@email.com,(592) 633-4043,8370 Park Dr,San Jose,CA,73788,US,Administrative Assistant,248219.73,477,2007-06-26,8,19,1,1
+120,Christina,Wilson,1967-07-04,F,christina.wilson120@email.com,(775) 717-9109,158 Lake Ave,Washington,DC,63626,US,Security Guard,155989.3,754,2021-12-02,3,6,1,1
+121,Jeffrey,Wood,1975-11-25,M,jeffrey.wood121@email.com,(999) 668-9115,4504 Pine Rd,Chicago,IL,82053,US,Truck Driver,55586.05,416,2012-01-07,9,53,1,1
+122,David,Wallace,1972-03-17,F,david.wallace122@email.com,(233) 660-5305,3581 Park St,Atlanta,GA,55688,US,Manager,163771.21,420,2010-08-18,4,52,1,1
+123,Bryan,Gonzales,1955-04-30,Other,bryan.gonzales123@email.com,(559) 745-5605,2282 Pine Ave,Austin,TX,88231,US,Administrative Assistant,73901.29,599,2012-12-23,10,18,1,1
+124,Zawadi,Harris,1961-05-20,M,zawadi.harris124@email.com,(455) 349-6277,6744 Oak Blvd,Dallas,TX,42447,US,Journalist,180500.3,575,2018-07-31,7,29,1,1
+125,Nancy,Patterson,1993-10-14,F,nancy.patterson125@email.com,(795) 202-2526,4559 Washington Dr,Minneapolis,MN,70089,US,Professor,300235.27,847,2017-11-03,4,28,1,1
+126,Samuel,Diaz,2000-10-16,F,samuel.diaz126@email.com,(551) 898-1793,8968 Hill Ave,El Paso,TX,16021,US,Sales Representative,225891.6,770,2000-09-23,2,60,1,1
+127,James,Gonzales,1974-08-02,M,james.gonzales127@email.com,(870) 569-5102,2162 Elm Ave,Fort Worth,TX,20803,US,Dentist,238616.93,469,2002-04-28,7,41,1,1
+128,Cynthia,Gonzales,1992-10-11,M,cynthia.gonzales128@email.com,(335) 807-4705,1560 Oak Ave,Philadelphia,PA,78084,US,Human Resources,21083.27,651,2005-05-29,7,45,1,1
+129,Jerry,Thompson,1976-11-05,M,jerry.thompson129@email.com,(591) 992-3181,1691 Washington Blvd,San Antonio,TX,94092,US,Mechanic,40712.65,308,2007-05-12,8,23,1,1
+130,Joshua,Reynolds,1959-01-06,M,joshua.reynolds130@email.com,(970) 326-7291,7249 Pine St,Colorado Springs,CO,56076,US,Real Estate Agent,122415.22,443,2011-02-11,5,42,1,1
+131,Janice,Diallo,1996-06-13,Other,janice.diallo131@email.com,(721) 393-7418,440 Elm Ave,Denver,CO,48737,US,Doctor,278222.13,545,2022-03-14,7,8,1,1
+132,Charles,Olson,1984-09-14,Other,charles.olson132@email.com,(630) 574-9951,5917 Washington Ave,New York,NY,99514,US,Police Officer,271225.01,374,2000-09-30,10,5,0,1
+133,Jessica,Coleman,1988-01-01,F,jessica.coleman133@email.com,(284) 855-9791,4694 River Dr,Minneapolis,MN,80471,US,Mechanic,110119.29,617,2003-07-18,9,59,1,1
+134,Jacqueline,Price,1989-04-01,M,jacqueline.price134@email.com,(259) 450-2412,9609 Maple Blvd,Memphis,TN,66948,US,Electrician,168519.45,356,2013-11-15,3,8,0,1
+135,John,Adams,1973-04-05,M,john.adams135@email.com,(580) 329-5403,5681 River Rd,Oakland,CA,25473,US,Teacher,129223.66,739,2012-03-14,9,5,1,1
+136,Joe,Martin,1954-12-22,F,joe.martin136@email.com,(780) 370-7024,7458 River Blvd,Oakland,CA,30618,US,Marketing Specialist,274745.21,418,2010-03-31,9,1,0,1
+137,Gary,Lopez,1966-01-21,M,gary.lopez137@email.com,(766) 931-7870,5964 Park Ave,Miami,FL,39427,US,Consultant,100423.38,627,2012-03-02,2,37,1,1
+138,Susan,Rivera,1956-03-08,F,susan.rivera138@email.com,(489) 992-6090,8451 Oak Dr,Charlotte,NC,52899,US,Manager,201626.34,308,2016-07-19,4,19,1,1
+139,Julia,Peterson,1967-07-14,Other,julia.peterson139@email.com,(978) 451-3466,6034 Hill Dr,Milwaukee,WI,10835,US,Graphic Designer,25938.2,654,2000-06-06,6,1,1,1
+140,Brandon,Clark,1994-02-21,M,brandon.clark140@email.com,(345) 928-5584,8681 Pine Dr,Columbus,OH,22193,US,Nurse,323863.1,832,2018-07-12,6,30,1,1
+141,Matthew,Kennedy,2000-12-10,M,matthew.kennedy141@email.com,(645) 878-3141,6462 Maple Rd,Dallas,TX,41034,US,Data Scientist,104648.99,622,2017-08-17,6,21,1,1
+142,Stephanie,Wright,1964-09-30,F,stephanie.wright142@email.com,(677) 521-7660,1786 Cedar St,Raleigh,NC,25825,US,Administrative Assistant,136951.43,512,2020-04-09,5,30,1,1
+143,Kenneth,Bennett,1963-04-23,M,kenneth.bennett143@email.com,(928) 454-6828,661 Pine Blvd,Omaha,NE,61936,US,Truck Driver,34251.61,606,2011-09-02,3,2,1,1
+144,Carl,Burns,1962-07-17,M,carl.burns144@email.com,(212) 263-4641,1552 Lake St,Indianapolis,IN,27133,US,Firefighter,291459.57,681,2003-10-08,10,38,1,1
+145,Jennifer,Taylor,1979-09-30,M,jennifer.taylor145@email.com,(243) 672-1829,7266 Cedar St,Fort Worth,TX,32018,US,Retired,161807.92,704,2022-04-03,1,25,1,1
+146,Jason,Mitchell,1953-02-09,Other,jason.mitchell146@email.com,(834) 831-5026,4586 Lake Ave,Seattle,WA,94840,US,Data Scientist,183632.01,790,2002-09-26,2,18,1,1
+147,Gabriel,Castillo,1982-03-21,F,gabriel.castillo147@email.com,(757) 696-6636,8908 Oak Dr,Indianapolis,IN,84141,US,Truck Driver,124772.67,576,2008-01-25,1,21,1,0
+148,Brenda,Anderson,1970-11-19,M,brenda.anderson148@email.com,(302) 453-4951,8675 Washington Rd,Miami,FL,44934,US,Administrative Assistant,289006.67,357,2009-11-03,10,55,1,1
+149,Brian,Rivera,1982-03-10,Other,brian.rivera149@email.com,(228) 920-6761,9708 Washington Ln,Indianapolis,IN,84403,US,Retired,65177.96,492,2022-01-29,9,20,1,0
+150,Joseph,Cook,1992-11-18,M,joseph.cook150@email.com,(539) 828-4300,3585 Oak Rd,Omaha,NE,27103,US,Financial Advisor,256023.29,631,2002-09-02,1,10,1,1
+151,Mark,Castillo,1985-06-28,Other,mark.castillo151@email.com,(303) 544-5944,1189 Washington Ln,Boston,MA,52284,US,Plumber,341985.74,747,2021-11-08,6,12,1,1
+152,Madison,Sullivan,1977-07-11,F,madison.sullivan152@email.com,(330) 381-1029,9650 Cedar Dr,Charlotte,NC,85082,US,Journalist,300451.31,333,2008-03-02,10,21,1,1
+153,Jeffrey,Simpson,1956-12-24,M,jeffrey.simpson153@email.com,(555) 527-3750,8130 Cedar Blvd,San Antonio,TX,93386,US,Manager,290791.72,643,2020-01-13,1,17,1,1
+154,Rachel,Bailey,1989-04-25,F,rachel.bailey154@email.com,(370) 623-9078,21 Oak Dr,San Antonio,TX,59638,US,Professor,199279.96,403,2021-07-04,10,42,1,1
+155,Christina,Jackson,1973-06-05,M,christina.jackson155@email.com,(275) 550-3787,4832 Oak Blvd,Chicago,IL,59212,US,Lawyer,261019.05,395,2015-02-27,10,40,1,1
+156,Henry,Nelson,1959-02-01,F,henry.nelson156@email.com,(410) 394-7705,7114 Cedar St,Omaha,NE,82628,US,Administrative Assistant,106067.9,588,2013-05-04,4,7,0,1
+157,Megan,Flores,1957-11-11,F,megan.flores157@email.com,(877) 840-8869,5912 Oak Dr,Houston,TX,36171,US,Sales Representative,26544.25,474,2013-02-02,2,31,1,1
+158,Diane,Ellis,1998-10-25,F,diane.ellis158@email.com,(389) 579-7249,4342 Maple Ln,Oakland,CA,58418,US,Police Officer,165997.39,569,2019-09-22,8,17,1,1
+159,Jessica,Hill,1987-02-21,Other,jessica.hill159@email.com,(432) 766-1999,1405 Washington Rd,San Antonio,TX,60738,US,Construction Worker,156985.85,848,2021-04-19,10,57,1,1
+160,Diane,Rodriguez,1963-03-25,M,diane.rodriguez160@email.com,(975) 659-3832,9359 River Rd,Minneapolis,MN,31910,US,Chef,286408.96,429,2001-11-30,7,6,1,1
+161,Joe,Nguyen,1956-01-05,M,joe.nguyen161@email.com,(597) 769-7510,4226 Washington Ln,Omaha,NE,82358,US,Consultant,302399.23,832,2020-07-20,1,51,1,1
+162,Victoria,Lewis,2002-09-30,Other,victoria.lewis162@email.com,(976) 302-2730,2452 Cedar Rd,Louisville,KY,83752,US,Sales Representative,278867.55,848,2015-06-04,7,17,1,1
+163,Doris,Stevens,1962-11-27,Other,doris.stevens163@email.com,(823) 897-7581,2822 Elm Dr,Chicago,IL,15083,US,Journalist,313338.64,639,2010-08-28,1,48,1,1
+164,Catherine,Garcia,1994-02-08,M,catherine.garcia164@email.com,(433) 337-5923,4966 Elm Blvd,El Paso,TX,68079,US,Consultant,107447.43,726,2004-01-02,4,29,1,1
+165,Noah,Woods,1955-11-21,F,noah.woods165@email.com,(926) 718-7609,921 River Ave,Boston,MA,27779,US,Construction Worker,309938.42,329,2007-10-17,4,57,1,1
+166,Amy,Rodriguez,1967-11-12,F,amy.rodriguez166@email.com,(577) 675-9275,829 Washington Ln,Milwaukee,WI,62028,US,Electrician,244149.89,547,2016-09-15,8,39,1,1
+167,Olivia,Abubakar,1973-03-16,M,olivia.abubakar167@email.com,(491) 228-7333,5731 Washington Ave,Cleveland,OH,16507,US,Lawyer,301468.68,519,2009-12-05,4,44,1,1
+168,Andrea,Garcia,1965-07-16,Other,andrea.garcia168@email.com,(208) 429-5135,7768 Cedar Ln,New York,NY,89736,US,Architect,254629.84,581,2019-01-04,7,55,1,1
+169,Evelyn,Bennett,1950-08-29,Other,evelyn.bennett169@email.com,(878) 583-5631,6507 Hill St,Tampa,FL,49121,US,Sales Representative,177937.16,644,2012-05-26,6,56,1,1
+170,Logan,Brooks,1955-02-04,Other,logan.brooks170@email.com,(613) 876-6236,2457 River Ave,Fort Worth,TX,99228,US,Plumber,257466.02,809,2013-04-05,5,59,1,1
+171,Barbara,Kipchoge,1969-12-13,Other,barbara.kipchoge171@email.com,(853) 687-6873,3112 Washington Ln,Kansas City,MO,76494,US,Architect,298679.19,485,2013-03-06,2,31,1,1
+172,Jean,Campbell,1970-01-14,F,jean.campbell172@email.com,(630) 539-7089,1464 Pine Blvd,El Paso,TX,44152,US,Student,115624.97,420,2021-02-08,1,56,1,1
+173,Billy,Jackson,1984-03-29,Other,billy.jackson173@email.com,(505) 623-1885,3188 River St,Miami,FL,29762,US,Plumber,347459.49,650,2018-05-10,10,58,1,1
+174,Benjamin,Campbell,1965-11-12,F,benjamin.campbell174@email.com,(849) 259-1077,7989 Washington Ln,Philadelphia,PA,69251,US,Business Analyst,87514.95,472,2007-02-08,8,51,1,1
+175,Madison,Ramos,1984-05-22,M,madison.ramos175@email.com,(238) 746-4267,6610 Park Dr,Portland,OR,58903,US,Software Engineer,314146.12,843,2008-07-19,1,44,0,1
+176,Laura,Ross,1995-02-27,Other,laura.ross176@email.com,(513) 371-2069,2113 Maple Dr,Nashville,TN,15992,US,Architect,332889.84,766,2023-05-04,10,34,1,1
+177,Paul,Sanders,1986-03-11,M,paul.sanders177@email.com,(433) 429-3149,5886 Pine Ave,Oakland,CA,37681,US,Teacher,213778.02,473,2005-07-10,6,46,1,0
+178,Judy,Bailey,1959-09-13,M,judy.bailey178@email.com,(249) 906-2897,797 Hill St,Atlanta,GA,64627,US,Human Resources,144244.25,558,2021-04-12,3,14,1,1
+179,Nicole,Graham,1962-04-22,F,nicole.graham179@email.com,(307) 723-2928,8525 Elm Rd,San Antonio,TX,47054,US,Electrician,278540.34,809,2008-11-28,10,13,1,1
+180,Stephanie,Sullivan,1999-03-06,F,stephanie.sullivan180@email.com,(412) 904-8875,4840 Cedar St,Louisville,KY,53332,US,Civil Engineer,18909.02,391,2004-12-14,10,43,1,1
+181,Keith,Martin,1976-07-23,F,keith.martin181@email.com,(675) 251-2635,4193 Pine Dr,San Antonio,TX,32898,US,Nurse,300946.56,668,2014-01-10,7,48,1,1
+182,Elizabeth,Williams,1989-04-09,Other,elizabeth.williams182@email.com,(474) 950-2522,2794 Washington Blvd,Dallas,TX,58840,US,Financial Advisor,78712.65,710,2017-12-14,8,18,1,1
+183,Walter,Graham,1955-04-06,M,walter.graham183@email.com,(306) 626-8908,1853 Cedar Ln,Austin,TX,84572,US,Human Resources,78178.51,688,2016-02-01,10,2,1,1
+184,Dorothy,Ford,1954-02-15,M,dorothy.ford184@email.com,(467) 870-6148,1851 Park Dr,Oakland,CA,11620,US,Construction Worker,272819.53,529,2015-03-05,9,34,1,1
+185,Henry,Cooper,2000-02-03,Other,henry.cooper185@email.com,(255) 211-3571,5665 Park Ave,Miami,FL,76265,US,Retail Associate,300821.22,469,2003-05-11,8,21,1,1
+186,Richard,Kennedy,1971-01-31,M,richard.kennedy186@email.com,(670) 654-8341,9020 Park Dr,Charlotte,NC,21536,US,Security Guard,166426.62,421,2022-04-23,1,7,1,0
+187,Gerald,Smith,1977-04-30,Other,gerald.smith187@email.com,(775) 411-8474,9900 Hill Ln,Philadelphia,PA,54676,US,Dentist,292003.25,528,2020-05-20,6,36,1,1
+188,Albert,Ortiz,1969-11-23,M,albert.ortiz188@email.com,(549) 563-5783,1869 Maple Ln,Baltimore,MD,81786,US,Construction Worker,142131.6,408,2002-01-20,3,32,1,1
+189,Jose,Ramirez,1985-04-01,M,jose.ramirez189@email.com,(668) 395-6536,3210 Pine St,San Francisco,CA,24125,US,Graphic Designer,33438.12,426,2020-03-17,8,43,1,1
+190,Cheryl,Johnson,2002-06-30,F,cheryl.johnson190@email.com,(720) 999-3903,796 River Dr,Tampa,FL,85832,US,Police Officer,260524.23,431,2004-08-23,7,43,1,1
+191,Martha,Barnes,1985-09-11,F,martha.barnes191@email.com,(501) 663-3185,9978 Pine Blvd,Louisville,KY,28111,US,Graphic Designer,218038.12,824,2013-05-29,9,56,1,1
+192,Gloria,Edwards,1976-01-26,F,gloria.edwards192@email.com,(888) 335-3913,3436 Hill Ln,Fort Worth,TX,76046,US,Administrative Assistant,248511.58,630,2005-03-05,6,36,1,1
+193,Amir,Hamilton,1996-11-23,M,amir.hamilton193@email.com,(225) 590-3381,4685 Park St,Atlanta,GA,16955,US,Doctor,84367.6,464,2012-11-08,5,10,1,1
+194,Emma,Turner,1959-03-13,Other,emma.turner194@email.com,(891) 957-4675,530 Washington Dr,Atlanta,GA,94819,US,Self-Employed,147110.37,823,2012-11-25,1,60,1,1
+195,Neema,Reyes,1972-07-19,M,neema.reyes195@email.com,(835) 999-8259,882 Oak Ln,Cleveland,OH,39563,US,Dentist,268695.76,501,2008-09-05,5,29,1,1
+196,Melissa,Hall,1988-06-11,F,melissa.hall196@email.com,(769) 470-3131,1956 Park St,Minneapolis,MN,31093,US,Student,298876.71,305,2014-10-29,8,46,1,0
+197,Samuel,Nkosi,1999-05-11,F,samuel.nkosi197@email.com,(274) 924-6207,4935 Lake Rd,Houston,TX,78864,US,Pharmacist,335719.92,833,2003-01-22,9,11,1,1
+198,Nancy,Morales,1982-05-15,F,nancy.morales198@email.com,(423) 970-9691,3496 Washington Blvd,Charlotte,NC,72240,US,Self-Employed,291464.55,309,2005-02-22,6,29,1,1
+199,Julia,Peterson,1984-08-14,F,julia.peterson199@email.com,(753) 941-5633,5259 Park St,Chicago,IL,13238,US,Construction Worker,290940.21,683,2023-01-26,9,29,1,1
+200,Logan,Roberts,1965-01-07,Other,logan.roberts200@email.com,(746) 207-2072,8420 Maple St,Oklahoma City,OK,37627,US,Chef,305163.68,734,2004-08-29,4,35,1,1
+201,Lauren,Jackson,1979-10-05,M,lauren.jackson201@email.com,(289) 275-1889,390 Lake Ln,San Jose,CA,33329,US,Marketing Specialist,203283.96,533,2011-08-08,7,25,1,1
+202,Benjamin,Jones,1955-09-04,Other,benjamin.jones202@email.com,(246) 917-2189,1939 River St,Las Vegas,NV,56884,US,Truck Driver,53237.0,608,2003-11-18,5,49,1,1
+203,Denise,Davis,1962-03-27,F,denise.davis203@email.com,(758) 502-3360,2562 River Ave,Miami,FL,49066,US,Dentist,335854.03,311,2006-05-05,2,3,0,1
+204,Jacqueline,Burns,1980-11-06,M,jacqueline.burns204@email.com,(622) 861-9397,4993 Pine Ln,Philadelphia,PA,28671,US,Lawyer,79085.58,558,2008-09-18,2,12,1,1
+205,Susan,Burns,1956-01-17,F,susan.burns205@email.com,(300) 402-8982,9006 Maple Blvd,Milwaukee,WI,53365,US,Professor,60567.43,540,2004-06-27,5,40,1,1
+206,Noah,Cole,2000-09-27,Other,noah.cole206@email.com,(573) 523-8017,5009 Hill Ave,El Paso,TX,32103,US,Software Engineer,121987.31,526,2019-07-25,5,54,1,1
+207,Raymond,Murray,1993-09-09,Other,raymond.murray207@email.com,(311) 379-2343,7297 Washington Blvd,Milwaukee,WI,46780,US,Plumber,313910.62,501,2011-10-22,2,47,1,0
+208,Martha,Davis,1969-02-01,M,martha.davis208@email.com,(764) 466-9904,9485 Park Rd,Raleigh,NC,80736,US,Retail Associate,235097.5,452,2016-05-29,7,15,1,1
+209,Justin,Wright,1985-08-06,F,justin.wright209@email.com,(714) 210-4913,8211 River St,Milwaukee,WI,90482,US,Lawyer,269392.42,443,2020-01-06,3,12,1,1
+210,Emily,Ford,1970-10-16,M,emily.ford210@email.com,(470) 578-4834,663 Pine Dr,Washington,DC,15610,US,Chef,189937.9,669,2017-05-29,8,59,1,1
+211,Logan,Hughes,1973-08-16,Other,logan.hughes211@email.com,(757) 783-3848,8543 Elm Ln,San Antonio,TX,59369,US,Veterinarian,139278.53,379,2023-03-06,5,25,1,1
+212,Julie,Powell,1950-08-05,Other,julie.powell212@email.com,(342) 650-3713,7977 Lake Rd,Washington,DC,40145,US,Accountant,188827.7,587,2009-06-27,3,12,1,1
+213,Donald,Murphy,1992-12-15,F,donald.murphy213@email.com,(415) 804-3641,5411 Maple Dr,Louisville,KY,94837,US,Graphic Designer,25452.08,344,2005-09-26,10,38,1,1
+214,David,Juma,1966-02-25,Other,david.juma214@email.com,(615) 813-1305,917 Cedar Blvd,San Jose,CA,96736,US,Data Scientist,332488.28,521,2020-02-24,10,31,1,1
+215,Joyce,Mensah,1995-10-30,F,joyce.mensah215@email.com,(371) 941-6614,9547 Cedar Rd,San Jose,CA,69437,US,Student,40855.84,687,2017-04-16,3,7,0,1
+216,Martha,Graham,1992-09-10,Other,martha.graham216@email.com,(814) 239-9706,9921 Maple Ave,San Jose,CA,75972,US,Electrician,48939.07,433,2000-01-20,7,34,1,1
+217,Hannah,Gonzales,2002-11-05,Other,hannah.gonzales217@email.com,(300) 635-3193,7900 Park Blvd,Charlotte,NC,43360,US,Retail Associate,272265.15,385,2012-09-15,10,57,1,1
+218,Mary,Johnson,1950-08-24,F,mary.johnson218@email.com,(870) 410-6175,8562 Maple Rd,Kansas City,MO,63588,US,Dentist,53385.63,736,2011-05-18,5,55,1,1
+219,Bryan,Ward,2000-01-09,F,bryan.ward219@email.com,(383) 579-8925,3338 Park Rd,Memphis,TN,43263,US,Architect,209780.18,707,2006-03-12,2,48,1,1
+220,Michelle,Sanchez,1999-05-25,Other,michelle.sanchez220@email.com,(913) 900-1852,8329 Park Blvd,Columbus,OH,31068,US,Veterinarian,338237.32,305,2004-02-01,3,31,1,1
+221,Thomas,Gomez,1953-05-22,F,thomas.gomez221@email.com,(610) 828-9536,6076 Maple Rd,Charlotte,NC,47548,US,Doctor,331977.66,479,2022-03-05,8,1,1,1
+222,Roger,Richardson,1996-04-11,M,roger.richardson222@email.com,(829) 373-1590,551 Hill Rd,Fort Worth,TX,57151,US,Civil Engineer,235466.35,461,2003-11-23,5,50,1,1
+223,Julie,Abubakar,1956-02-27,M,julie.abubakar223@email.com,(762) 491-6703,8483 Oak Ln,Fort Worth,TX,55544,US,Business Analyst,93130.11,499,2020-05-25,7,37,0,1
+224,Martha,Ramirez,1980-07-02,M,martha.ramirez224@email.com,(725) 463-9813,1186 River Blvd,Cleveland,OH,85352,US,Marketing Specialist,248471.7,686,2021-09-10,4,49,1,1
+225,Baraka,Chavez,1973-02-17,M,baraka.chavez225@email.com,(591) 848-4610,449 Lake St,Raleigh,NC,98724,US,Pharmacist,283653.58,722,2015-11-03,9,35,0,1
+226,Amy,Richardson,1999-10-02,M,amy.richardson226@email.com,(687) 521-6792,6537 Washington St,Philadelphia,PA,38647,US,Retired,107333.16,494,2022-05-20,4,16,1,1
+227,Edward,Murphy,1963-12-30,M,edward.murphy227@email.com,(322) 280-9071,4092 Hill Blvd,Fort Worth,TX,90455,US,Software Engineer,271729.08,343,2021-08-19,6,40,1,1
+228,Alice,Ward,1985-09-11,M,alice.ward228@email.com,(968) 790-3101,2997 River Blvd,Oakland,CA,17097,US,Construction Worker,283357.61,789,2001-06-17,9,23,1,1
+229,Brian,Chavez,1950-10-03,M,brian.chavez229@email.com,(890) 415-7216,8491 Lake Blvd,San Diego,CA,86153,US,Sales Representative,126044.82,565,2008-05-24,9,17,1,1
+230,Bryan,Sanders,1968-11-20,F,bryan.sanders230@email.com,(917) 970-7099,3014 Lake Dr,Boston,MA,57851,US,Journalist,110837.0,484,2005-11-18,10,44,1,1
+231,Anna,Rogers,1963-02-01,M,anna.rogers231@email.com,(684) 209-3893,7082 Park Ave,Cleveland,OH,65249,US,Security Guard,62644.6,829,2023-12-14,6,51,1,1
+232,Kathryn,Gonzalez,1969-05-01,F,kathryn.gonzalez232@email.com,(687) 844-2577,1622 Cedar St,Memphis,TN,68963,US,Financial Advisor,104243.35,668,2011-07-24,6,2,1,1
+233,Zawadi,Diallo,1998-04-22,M,zawadi.diallo233@email.com,(999) 491-6818,9452 Hill Ln,Fort Worth,TX,52610,US,Truck Driver,179847.92,757,2003-07-08,7,40,1,1
+234,Emily,Nelson,1986-04-25,M,emily.nelson234@email.com,(281) 365-6629,6912 Hill Rd,El Paso,TX,39912,US,Consultant,123203.58,598,2011-12-31,10,42,1,1
+235,Patrick,Abubakar,1966-07-01,M,patrick.abubakar235@email.com,(328) 945-4844,7378 Park Ave,Tampa,FL,96772,US,Marketing Specialist,330225.2,381,2009-06-12,3,26,1,1
+236,Olivia,Burns,1957-06-20,M,olivia.burns236@email.com,(468) 832-3544,432 Park Rd,Houston,TX,21050,US,Veterinarian,120711.06,553,2012-09-29,8,41,1,1
+237,Carol,Davis,1991-11-30,Other,carol.davis237@email.com,(478) 761-8288,5847 Washington Dr,Chicago,IL,27709,US,Administrative Assistant,76776.16,767,2019-07-06,9,41,1,1
+238,Frank,Ford,1977-08-15,F,frank.ford238@email.com,(622) 466-3551,3722 Maple Dr,Atlanta,GA,49789,US,Software Engineer,18030.66,439,2015-06-05,5,31,1,1
+239,Megan,Murray,1970-09-29,M,megan.murray239@email.com,(761) 582-4089,150 Park Blvd,Nashville,TN,63967,US,Self-Employed,163119.31,555,2007-04-29,7,54,1,1
+240,Nathan,Morgan,1997-09-21,F,nathan.morgan240@email.com,(622) 392-2121,4455 Elm Ln,Tampa,FL,33908,US,Plumber,114145.64,766,2020-04-23,5,45,1,1
+241,Robert,Hill,1959-03-06,F,robert.hill241@email.com,(475) 328-8183,8765 Oak Ave,Houston,TX,11075,US,Pharmacist,47945.4,315,2022-02-20,4,22,1,1
+242,Cheryl,Gutierrez,1963-02-09,M,cheryl.gutierrez242@email.com,(472) 994-7429,520 Washington St,Milwaukee,WI,19356,US,Administrative Assistant,174088.73,496,2011-03-21,7,54,0,1
+243,Amy,Barnes,1991-05-06,M,amy.barnes243@email.com,(733) 881-4415,4050 Oak Ave,Baltimore,MD,71974,US,Veterinarian,244238.85,619,2014-06-29,3,41,1,1
+244,Gerald,Mendoza,1976-10-22,M,gerald.mendoza244@email.com,(569) 253-4568,4151 Lake Ln,San Diego,CA,24801,US,Civil Engineer,228125.78,632,2000-09-03,3,51,1,1
+245,Gary,Williams,1963-11-27,F,gary.williams245@email.com,(989) 291-5075,9521 Lake Ln,Chicago,IL,30669,US,Security Guard,48345.32,646,2002-09-10,1,23,1,1
+246,Margaret,Allen,1981-02-27,F,margaret.allen246@email.com,(950) 397-1349,3813 Washington Rd,Oakland,CA,59514,US,Professor,258500.52,556,2001-10-08,8,46,1,1
+247,Megan,Carter,1979-01-15,F,megan.carter247@email.com,(481) 813-3627,3058 River Blvd,Kansas City,MO,19027,US,Construction Worker,69468.46,602,2011-10-24,9,24,1,1
+248,Martha,Butler,1971-06-04,F,martha.butler248@email.com,(938) 264-9830,307 Hill Blvd,Jacksonville,FL,60789,US,Firefighter,191991.16,809,2006-11-30,10,19,1,1
+249,Mark,Harris,1966-01-10,M,mark.harris249@email.com,(406) 309-8952,1093 Oak Ave,Tampa,FL,35115,US,Sales Representative,28563.29,697,2021-12-22,9,40,1,1
+250,Janet,Stewart,1994-02-01,M,janet.stewart250@email.com,(679) 854-1994,1162 Oak Ave,Omaha,NE,57307,US,Self-Employed,264834.51,725,2016-07-21,1,53,1,1
+251,Charles,Bennett,1959-01-30,M,charles.bennett251@email.com,(744) 594-4104,3538 River St,Phoenix,AZ,35312,US,Construction Worker,236083.0,483,2018-08-16,2,50,1,1
+252,Joan,Gonzales,1986-01-10,Other,joan.gonzales252@email.com,(545) 873-3591,2734 Cedar Rd,San Antonio,TX,79979,US,Human Resources,327928.63,622,2014-07-25,6,27,1,1
+253,Samuel,Diallo,1983-08-26,Other,samuel.diallo253@email.com,(962) 460-6898,9227 River Ave,Indianapolis,IN,69297,US,Human Resources,336661.71,300,2001-07-21,5,39,0,1
+254,Nicole,Johnson,1951-12-13,F,nicole.johnson254@email.com,(766) 723-3534,3636 Pine Blvd,Nashville,TN,22358,US,Nurse,170842.78,459,2006-03-17,5,24,1,1
+255,Angela,Brooks,1969-07-04,M,angela.brooks255@email.com,(940) 532-8905,9347 Park Rd,Philadelphia,PA,32662,US,Security Guard,292134.14,397,2013-06-22,1,47,1,1
+256,Joseph,Long,1970-05-05,Other,joseph.long256@email.com,(211) 849-7266,7116 Park St,Washington,DC,17094,US,Architect,192095.27,626,2006-09-16,6,33,1,1
+257,Juma,Henderson,1958-01-30,M,juma.henderson257@email.com,(642) 496-7460,9751 Hill Rd,Baltimore,MD,29400,US,Plumber,129607.84,787,2002-03-18,9,26,1,1
+258,Lauren,King,1993-10-08,F,lauren.king258@email.com,(867) 785-4212,7880 River Ave,Dallas,TX,83553,US,Construction Worker,99753.62,373,2011-12-11,7,21,1,1
+259,Mark,Reynolds,1978-10-10,F,mark.reynolds259@email.com,(808) 871-1396,5985 Washington Ave,Portland,OR,49953,US,Lawyer,345900.44,752,2006-07-17,8,3,1,1
+260,Neema,Gutierrez,1954-11-23,M,neema.gutierrez260@email.com,(835) 351-5713,1406 Maple Ln,San Jose,CA,11800,US,Financial Advisor,248340.01,413,2013-09-08,8,31,0,1
+261,Jacqueline,Collins,1999-03-28,F,jacqueline.collins261@email.com,(837) 947-3315,8953 River Blvd,Columbus,OH,97590,US,Teacher,143033.41,839,2001-12-13,5,11,1,1
+262,Billy,Howard,1984-11-13,F,billy.howard262@email.com,(878) 875-6901,7618 Oak St,Houston,TX,24141,US,Teacher,115108.53,695,2010-05-15,7,33,1,1
+263,Benjamin,Marshall,1967-11-04,Other,benjamin.marshall263@email.com,(668) 774-1352,8710 Maple Ave,Omaha,NE,15210,US,Civil Engineer,324193.68,612,2014-12-18,8,26,1,0
+264,Neema,Powell,1974-10-01,M,neema.powell264@email.com,(840) 463-7343,4954 Pine Rd,Washington,DC,13862,US,Self-Employed,333106.65,530,2006-10-21,6,58,1,1
+265,Maria,Mendoza,2001-05-25,M,maria.mendoza265@email.com,(636) 519-6395,3727 Park Ave,Colorado Springs,CO,68873,US,Administrative Assistant,61748.35,441,2009-01-27,3,20,1,1
+266,Paul,Alexander,1956-02-01,Other,paul.alexander266@email.com,(745) 936-2939,9255 Cedar Blvd,San Jose,CA,34134,US,Consultant,296721.47,449,2001-04-28,6,57,1,1
+267,Nicole,Griffin,1961-10-20,M,nicole.griffin267@email.com,(226) 980-5372,2490 Pine St,Seattle,WA,89377,US,Retired,221304.19,537,2010-05-11,1,23,1,1
+268,Paul,Ruiz,1984-10-05,F,paul.ruiz268@email.com,(685) 340-3683,7681 Washington Ave,Omaha,NE,35330,US,Pharmacist,28700.21,315,2012-02-08,7,15,1,1
+269,Edward,Taylor,1979-02-24,F,edward.taylor269@email.com,(452) 637-7633,7198 Hill Dr,Jacksonville,FL,15482,US,Veterinarian,257106.7,703,2023-07-24,1,34,1,1
+270,David,Peterson,1953-07-10,Other,david.peterson270@email.com,(596) 728-1807,8813 Park Ln,Tampa,FL,34884,US,Data Scientist,163931.89,611,2012-10-28,8,11,1,1
+271,Susan,Woods,1994-12-01,M,susan.woods271@email.com,(384) 997-9952,7596 Lake St,San Jose,CA,27734,US,Journalist,155301.69,761,2001-02-12,3,30,1,1
+272,Stephanie,Hayes,1964-09-17,M,stephanie.hayes272@email.com,(293) 316-8362,4098 Washington Ln,Philadelphia,PA,93109,US,Dentist,46321.77,693,2022-12-14,10,11,1,1
+273,Carol,Long,1966-01-18,M,carol.long273@email.com,(629) 515-6071,2460 Cedar Ave,Kansas City,MO,68491,US,Data Scientist,225982.35,420,2005-11-25,4,1,1,1
+274,Joan,Harrison,1994-04-09,M,joan.harrison274@email.com,(422) 802-8794,8905 Oak Rd,Oakland,CA,69472,US,Graphic Designer,164702.62,306,2010-12-23,9,18,1,1
+275,Rebecca,Gonzalez,1981-04-24,M,rebecca.gonzalez275@email.com,(348) 233-5889,2430 Oak Ln,Jacksonville,FL,53399,US,Manager,34278.41,726,2007-12-30,3,44,1,1
+276,Jordan,Juma,2001-12-10,F,jordan.juma276@email.com,(236) 295-5903,2907 Lake Ln,Cleveland,OH,52312,US,Dentist,315979.89,369,2019-03-03,9,5,1,1
+277,Salma,Ward,1968-10-29,M,salma.ward277@email.com,(826) 259-2790,8636 Park Rd,El Paso,TX,84890,US,Construction Worker,345746.84,795,2012-11-18,7,39,1,1
+278,Alice,Powell,1994-08-27,F,alice.powell278@email.com,(384) 824-4812,9219 Lake Rd,Dallas,TX,48074,US,Firefighter,18524.86,324,2020-11-07,2,48,1,1
+279,Adam,Reynolds,1969-01-18,M,adam.reynolds279@email.com,(855) 406-5614,5469 Washington Rd,Chicago,IL,43347,US,Accountant,120180.49,818,2014-07-13,1,8,1,1
+280,Kathryn,Davis,1992-12-25,F,kathryn.davis280@email.com,(236) 861-3224,3179 Washington Blvd,Jacksonville,FL,73110,US,Mechanic,226230.56,849,2015-01-12,8,51,1,1
+281,Joseph,Mendoza,1998-01-28,M,joseph.mendoza281@email.com,(413) 791-6434,9257 Washington Rd,Nashville,TN,56346,US,Accountant,339911.61,587,2001-05-25,6,25,1,1
+282,Dylan,Diallo,1977-08-28,F,dylan.diallo282@email.com,(926) 232-5448,3071 Hill St,Las Vegas,NV,64246,US,Manager,183022.07,543,2016-09-01,8,54,1,1
+283,Nicole,Hall,1958-04-23,F,nicole.hall283@email.com,(718) 225-8907,6132 Oak Ave,San Diego,CA,75543,US,Mechanic,81150.28,795,2023-06-28,5,50,1,1
+284,Betty,Woods,1984-10-09,Other,betty.woods284@email.com,(318) 204-6095,3362 Oak Dr,Dallas,TX,15771,US,Manager,128652.2,347,2004-08-16,9,50,1,1
+285,Alice,James,1975-09-17,F,alice.james285@email.com,(745) 526-8227,5258 Pine Ave,Columbus,OH,97965,US,Electrician,108521.2,461,2012-04-10,2,1,1,1
+286,Anthony,Turner,1974-04-26,M,anthony.turner286@email.com,(921) 490-5011,5740 River Blvd,Atlanta,GA,32449,US,Accountant,121377.35,646,2019-11-25,1,9,0,1
+287,Richard,Ramirez,1985-02-28,M,richard.ramirez287@email.com,(921) 810-8304,882 Maple Dr,Las Vegas,NV,90781,US,Professor,121730.3,502,2023-12-06,2,60,1,1
+288,Dorothy,White,1991-10-03,F,dorothy.white288@email.com,(437) 429-3354,1594 Lake Blvd,Milwaukee,WI,90863,US,Marketing Specialist,321070.05,701,2008-03-23,6,51,1,1
+289,Noah,Davis,1992-12-10,F,noah.davis289@email.com,(374) 489-6711,7788 Maple Blvd,Phoenix,AZ,89225,US,Retired,60294.81,405,2018-03-13,2,21,1,1
+290,Nicole,Webb,1971-05-28,Other,nicole.webb290@email.com,(449) 761-3605,6567 Hill Dr,Milwaukee,WI,73225,US,Veterinarian,39931.9,513,2019-05-04,7,37,1,1
+291,Jacob,Hall,1991-07-13,F,jacob.hall291@email.com,(768) 299-8294,9408 Lake St,Phoenix,AZ,33091,US,Architect,335353.3,371,2004-11-16,10,50,1,1
+292,Abigail,Thomas,1950-01-07,M,abigail.thomas292@email.com,(876) 352-8421,3566 Cedar Rd,Philadelphia,PA,79632,US,Data Scientist,147474.24,757,2008-10-10,4,44,1,1
+293,Zawadi,Bennett,1950-09-24,Other,zawadi.bennett293@email.com,(722) 613-3089,5641 Maple Rd,Portland,OR,48559,US,Doctor,140582.0,354,2000-01-14,9,53,1,1
+294,Larry,Davis,1978-07-17,F,larry.davis294@email.com,(615) 590-8130,7074 Hill Dr,Indianapolis,IN,81449,US,Chef,237945.87,786,2006-03-28,4,36,1,1
+295,Adam,Flores,1956-06-08,M,adam.flores295@email.com,(347) 938-8974,2057 Cedar St,Denver,CO,96235,US,Real Estate Agent,341691.71,439,2003-10-19,3,42,1,1
+296,Jesse,Kim,1988-01-19,Other,jesse.kim296@email.com,(660) 593-6821,2946 Lake Rd,Colorado Springs,CO,39588,US,Police Officer,159024.26,307,2022-05-06,4,46,1,1
+297,Ann,Mwangi,1993-05-10,F,ann.mwangi297@email.com,(315) 794-8889,549 Oak Rd,Boston,MA,20494,US,Mechanic,260421.58,839,2012-07-14,8,34,1,1
+298,Daniel,Peterson,1978-01-13,Other,daniel.peterson298@email.com,(254) 551-9765,1280 River Rd,Miami,FL,11413,US,Retail Associate,168739.54,780,2014-11-14,7,23,1,1
+299,Justin,Nelson,2000-07-28,F,justin.nelson299@email.com,(262) 844-8752,9792 Elm Ln,Chicago,IL,85778,US,Lawyer,208189.52,598,2001-03-23,5,32,1,1
+300,Brenda,Reed,1951-04-11,M,brenda.reed300@email.com,(818) 378-3476,4604 Elm Blvd,Dallas,TX,96396,US,Human Resources,140762.59,479,2011-09-20,4,32,1,1
+301,William,Sanders,1994-06-30,F,william.sanders301@email.com,(988) 592-4898,2377 Hill Ave,Philadelphia,PA,96594,US,Human Resources,259031.7,471,2009-06-16,10,47,1,1
+302,Shirley,Robinson,1992-09-22,F,shirley.robinson302@email.com,(687) 964-9724,2746 Lake Dr,Houston,TX,40626,US,Veterinarian,244925.31,699,2021-04-15,5,10,1,1
+303,Pamela,West,1953-09-06,M,pamela.west303@email.com,(744) 852-6797,5173 River Ln,Las Vegas,NV,66595,US,Business Analyst,129209.18,573,2004-05-29,5,42,1,1
+304,Juma,Morgan,1966-02-21,F,juma.morgan304@email.com,(760) 210-1138,3194 River Blvd,Raleigh,NC,18906,US,Software Engineer,154534.59,837,2004-08-29,8,23,1,1
+305,Deborah,Rodriguez,1969-06-14,Other,deborah.rodriguez305@email.com,(853) 324-2965,1507 Oak Rd,Los Angeles,CA,21322,US,Plumber,142818.2,489,2004-12-21,3,17,1,1
+306,Karen,Hayes,1964-07-13,M,karen.hayes306@email.com,(483) 995-2022,6996 Washington Blvd,Seattle,WA,60174,US,Veterinarian,128441.37,361,2011-08-01,5,12,1,1
+307,Stephanie,Henderson,1998-07-03,F,stephanie.henderson307@email.com,(423) 828-2740,8062 Maple Ave,Jacksonville,FL,67878,US,Marketing Specialist,52291.32,374,2003-02-27,10,47,1,1
+308,Cheryl,Hill,1963-08-08,F,cheryl.hill308@email.com,(600) 788-1060,620 Park Blvd,New York,NY,77552,US,Security Guard,176742.29,713,2003-02-22,9,15,0,1
+309,Judith,Young,1977-03-03,F,judith.young309@email.com,(256) 847-2485,8771 Washington Blvd,Kansas City,MO,57887,US,Administrative Assistant,301309.57,648,2003-08-11,8,49,1,1
+310,Amanda,Henry,1984-12-30,M,amanda.henry310@email.com,(845) 905-6886,6295 Pine Blvd,Chicago,IL,73766,US,Manager,311891.1,748,2008-07-01,3,3,1,1
+311,Sara,Morgan,1977-08-10,F,sara.morgan311@email.com,(746) 660-1268,6370 Maple Rd,Oakland,CA,14855,US,Financial Advisor,36610.08,343,2018-03-10,2,14,1,1
+312,Joan,Washington,1953-04-23,M,joan.washington312@email.com,(700) 869-1312,9493 Pine St,San Jose,CA,71763,US,Nurse,98570.61,433,2000-08-23,3,41,0,1
+313,Matthew,Hayes,1959-07-17,M,matthew.hayes313@email.com,(709) 809-4613,2797 Hill St,Colorado Springs,CO,18271,US,Firefighter,159502.21,711,2014-07-18,2,44,1,1
+314,Jason,Lopez,1960-10-31,F,jason.lopez314@email.com,(344) 975-7801,2842 Washington St,Raleigh,NC,32026,US,Dentist,201731.37,749,2010-12-05,10,3,1,1
+315,Grace,Perry,1950-07-28,M,grace.perry315@email.com,(383) 291-5648,257 Lake St,Austin,TX,64555,US,Retail Associate,247862.97,511,2006-06-02,5,34,1,1
+316,Brian,Martinez,1957-11-24,F,brian.martinez316@email.com,(556) 628-1074,2950 Lake Rd,Omaha,NE,83100,US,Civil Engineer,81711.75,842,2004-04-16,10,24,1,1
+317,Martha,Stewart,1967-05-19,M,martha.stewart317@email.com,(352) 901-8772,3410 Elm St,Milwaukee,WI,75210,US,Police Officer,71040.19,344,2002-06-04,6,19,1,1
+318,Madison,Hayes,1965-10-12,M,madison.hayes318@email.com,(229) 696-9436,1711 Oak Rd,Chicago,IL,25212,US,Accountant,315166.29,755,2014-08-15,7,13,1,1
+319,Ryan,Lewis,1987-01-06,M,ryan.lewis319@email.com,(584) 425-2204,3732 Maple Ave,Oklahoma City,OK,71733,US,Student,178823.36,746,2006-07-02,4,60,1,1
+320,Catherine,Wright,1968-02-22,F,catherine.wright320@email.com,(330) 232-1977,3182 Washington Blvd,Milwaukee,WI,46779,US,Plumber,54888.28,776,2020-07-27,7,11,1,1
+321,Emma,Osei,1970-08-10,M,emma.osei321@email.com,(621) 734-9015,2785 Hill Rd,Austin,TX,38369,US,Student,175198.35,773,2012-07-09,1,47,1,1
+322,Amy,Price,1963-05-14,Other,amy.price322@email.com,(205) 627-1724,9494 Pine Rd,Portland,OR,15250,US,Retail Associate,261514.13,816,2001-07-04,7,34,1,1
+323,Betty,Cole,1951-02-12,F,betty.cole323@email.com,(423) 335-6872,3941 Maple Rd,Oakland,CA,48769,US,Civil Engineer,233016.55,392,2000-09-17,8,43,1,1
+324,Dylan,Kipchoge,1986-05-14,M,dylan.kipchoge324@email.com,(579) 841-8607,7453 Lake Ave,Los Angeles,CA,93021,US,Software Engineer,303647.04,372,2017-04-06,6,34,0,1
+325,Anna,Tucker,1980-02-13,M,anna.tucker325@email.com,(727) 890-6963,3394 Maple Rd,Kansas City,MO,16758,US,Electrician,145141.06,776,2001-10-31,6,24,1,1
+326,Sarah,Snyder,1998-05-31,M,sarah.snyder326@email.com,(864) 689-4437,2268 Washington Ave,Columbus,OH,39548,US,Consultant,135100.27,573,2022-08-03,7,18,1,1
+327,Christina,Marshall,1997-09-20,Other,christina.marshall327@email.com,(499) 662-7031,8630 Maple Dr,Minneapolis,MN,98251,US,Accountant,80533.39,768,2003-12-01,2,26,1,1
+328,Karen,Ramirez,1963-04-11,F,karen.ramirez328@email.com,(354) 409-9530,4522 Maple Ln,Austin,TX,92218,US,Teacher,115332.25,435,2021-04-04,6,27,1,1
+329,Justin,Carter,1980-02-19,F,justin.carter329@email.com,(792) 551-6346,362 Pine Rd,Phoenix,AZ,73720,US,Student,239063.97,842,2019-12-22,8,20,1,1
+330,Brandon,Baker,1975-11-07,M,brandon.baker330@email.com,(351) 561-5659,3716 Lake Blvd,San Francisco,CA,69759,US,Lawyer,223385.24,464,2012-10-17,3,12,1,1

@@ -1,0 +1,11 @@
+branch_id,branch_name,address,city,state,zip_code,phone,opened_date,is_active
+1,Downtown Main Branch,100 Main Street,New York,NY,10001,(212) 555-0100,2009-03-15,1
+2,Westside Branch,250 West Ave,Los Angeles,CA,90001,(310) 555-0102,2005-07-22,1
+3,Midtown Branch,500 Park Ave,New York,NY,10022,(212) 555-0103,2001-11-30,1
+4,South Loop Branch,200 S Michigan Ave,Chicago,IL,60604,(312) 555-0104,2003-04-18,1
+5,Uptown Branch,1200 N Clark St,Chicago,IL,60610,(312) 555-0105,2007-09-05,1
+6,Galleria Branch,5085 Westheimer Rd,Houston,TX,77056,(713) 555-0106,2010-01-12,1
+7,Buckhead Branch,3500 Peachtree Rd,Atlanta,GA,30326,(404) 555-0107,1999-06-20,1
+8,South Beach Branch,1000 Lincoln Rd,Miami,FL,33139,(305) 555-0108,2002-08-14,1
+9,Capitol Hill Branch,400 E Pine St,Seattle,WA,98122,(206) 555-0109,2006-03-28,1
+10,Financial District Branch,1 Market St,San Francisco,CA,94105,(415) 555-0110,2004-11-09,1
