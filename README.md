@@ -23,6 +23,7 @@ This repository includes **10 interconnected tables**, simulating a financial/ba
 * **support_tickets** – Customer support interactions
 
 All datasets are provided in **CSV format** for easy import into databases.
+[View all datasets](https://github.com/ShafiiRJuma/SQL-Practice-Dataset/tree/main)
 
 ---
 
