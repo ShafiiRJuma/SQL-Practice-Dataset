@@ -40,9 +40,6 @@ Click any file below to view or download:
 
 ---
 
-
----
-
 ## 🎯 Purpose
 
 The goal of this repository is to help users practice:
@@ -108,7 +105,5 @@ Contributions are welcome! You can:
 ## ⭐ Support
 
 If you find this repository helpful, consider giving it a ⭐ to support the project!
-
----
 
 Happy querying! 🚀
