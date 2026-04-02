@@ -42,7 +42,7 @@ The goal of this repository is to help users practice:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/ShafiiRJuma/SQL-Practice-Dataset.git
    ```
 
 2. Import the CSV files into your preferred database:
